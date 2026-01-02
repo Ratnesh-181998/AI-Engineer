@@ -14,6 +14,10 @@
 
 # WORK 1 ANIME RECOMMENDER
 
+
+- ### **[GitRepo](https://github.com/Ratnesh-181998/Agentic-RAG-Anime-Recommender-System)**
+- ### **[Live Demo](https://agentic-rag-anime-recommender-system-4zb9ciceyhdlqls2csksqd.streamlit.app/)**
+  
 <img width="940" height="441" alt="image" src="https://github.com/user-attachments/assets/4b052bcc-b522-4a0b-bc84-8e9179c3a7c2" />
 
 <img width="940" height="313" alt="image" src="https://github.com/user-attachments/assets/ea22507d-c376-40d9-a98f-46118508aef5" />
@@ -29,6 +33,9 @@
 ---
 
 # WORK 2 FLIPKART PRODUCT RECOMMENDER
+
+- ### **[GitRepo](https://github.com/Ratnesh-181998/Flipkart-Product-Recommender-RAG)**
+- ### **[Live Demo](https://flipkart-appuct-recommender-rag-qpisu9s2oo4dyjr3fpp4yf.streamlit.app/)**
 
 <img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/b7eeae5d-3b28-4ea5-86d0-f56fb6bdde33" />
 
@@ -97,6 +104,9 @@
 
 # WORK 6 MULTI-AI AGENT SYSTEM
 
+- ### **[GitRepo](https://github.com/Ratnesh-181998/Enterprise-Multi-AI-Agent-Systems-)**
+- ### **[Live Demo](https://appudtzei3tyyttd6xjhwur.streamlit.app/)**
+
 <img width="940" height="359" alt="image" src="https://github.com/user-attachments/assets/021e907e-b9f9-4687-8981-703c7c808e46" />
 
 <img width="940" height="513" alt="image" src="https://github.com/user-attachments/assets/731b8d33-b4ff-4e2b-9688-9102d8a1f9f4" />
@@ -114,6 +124,9 @@
 
 # WORK 7 MEDICAL RAG CHATBOT
 
+- ### **[GitRepo]( https://github.com/Ratnesh-181998/Medical-RAG-Chatbot)**
+- ### **[Live Demo](https://medical-rag-chatbot-a7zyhffk6df9nqyek9jb5u.streamlit.app/)**
+
 <img width="940" height="445" alt="image" src="https://github.com/user-attachments/assets/6aa9cafc-2470-445f-8b88-ada2b2c80400" />
 
 <img width="940" height="479" alt="image" src="https://github.com/user-attachments/assets/fb87864e-b066-4cde-868a-ec683843f072" />
@@ -128,6 +141,9 @@
 ---
 
 # WORK 8 MUSIC COMPOSER (GENAI)
+
+- ### **[GitRepo](https://github.com/Ratnesh-181998/GenAI-Music-Composer)**
+- ### **[Live Demo](https://genai-music-composer-qnshg7dgddexrjverkd2e5.streamlit.app/)**
 
 <img width="940" height="485" alt="image" src="https://github.com/user-attachments/assets/f0022d14-c38b-4b2d-a4e1-2ef26e7062d8" />
 
