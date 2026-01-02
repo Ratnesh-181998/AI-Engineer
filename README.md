@@ -79,6 +79,9 @@
 
 # WORK 5 CELEBRITY DETECTOR QA
 
+- **[GitRepo]-(https://github.com/Ratnesh-181998/Celebrity-Recognition-QA-AI-System)**
+- **[Live Demo]-(https://celebrity-recognition-q-ai-system-nlan8szprudhrz9ctaappgxa.streamlit.app/)**
+  
 <img width="940" height="486" alt="image" src="https://github.com/user-attachments/assets/4d1ef067-08ba-4015-b223-dfbb6d104e09" />
 
 <img width="940" height="482" alt="image" src="https://github.com/user-attachments/assets/f6483798-291d-42a1-8c8f-beebe0febfe5" />
