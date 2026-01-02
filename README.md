@@ -114,7 +114,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
- width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/b7eeae5d-3b28-4ea5-86d0-f56fb6bdde33" />
+<img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/b7eeae5d-3b28-4ea5-86d0-f56fb6bdde33" />
 
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/7367655a-6754-436e-a02d-fbeb8efd5ae1" />
 
