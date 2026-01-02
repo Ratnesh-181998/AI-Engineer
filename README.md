@@ -1,8 +1,6 @@
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LLMOps%20%26%20AIOps%20Works&fontSize=50&fontColor=fff&animation=fadeIn" width="100%">
-</div>
 
-<div align="center">
+
 
 # 🚀 **LLMOps & AIOps Portfolio** 🚀
 ### *8 Production-Grade AI Systems Across GenAI, Cloud & DevOps*
@@ -13,9 +11,8 @@
 [![AIOps](https://img.shields.io/badge/⚡_AIOps-F38181?style=for-the-badge&logo=prometheus&logoColor=white)](https://github.com/Ratnesh-181998)
 [![MLOps](https://img.shields.io/badge/🎯_MLOps-AA96DA?style=for-the-badge&logo=mlflow&logoColor=white)](https://github.com/Ratnesh-181998)
 
-</div>
 
-<div align="center">
+
 
 ### 🧠 **AI/ML Stack**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
@@ -42,22 +39,19 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 
-</div>
-
 ---
 
-<div align="center">
+
 
 ## 📑 **TABLE OF CONTENTS** 📑
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12&height=2" width="80%">
 
-</div>
 
-<div align="center">
+
 
 | 🎯 **Project** | 🔗 **Quick Links** | 🛠️ **Tech Stack** |
-|:---:|:---:|:---:|
+|:---|:---|:---|
 | 🎬 Anime Recommender | [GitHub](https://github.com/Ratnesh-181998/Agentic-RAG-Anime-Recommender-System) • [Demo](https://agentic-rag-anime-recommender-system-4zb9ciceyhdlqls2csksqd.streamlit.app/) | RAG • LangChain • Groq |
 | 🛒 Flipkart Recommender | [GitHub](https://github.com/Ratnesh-181998/Flipkart-Product-Recommender-RAG) • [Demo](https://flipkart-appuct-recommender-rag-qpisu9s2oo4dyjr3fpp4yf.streamlit.app/) | RAG • Vector DB • LangChain |
 | ✈️ AI Travel Planner | [GitHub](https://github.com/Ratnesh-181998/Agent-Based-Travel-Reasoning-System) • 🔜 Demo | Agentic AI • LangGraph |
@@ -67,24 +61,19 @@
 | 🏥 Medical RAG Chatbot | [GitHub](https://github.com/Ratnesh-181998/Medical-RAG-Chatbot) • [Demo](https://medical-rag-chatbot-a7zyhffk6df9nqyek9jb5u.streamlit.app/) | Healthcare AI • RAG |
 | 🎵 GenAI Music Composer | [GitHub](https://github.com/Ratnesh-181998/GenAI-Music-Composer) • [Demo](https://genai-music-composer-qnshg7dgddexrjverkd2e5.streamlit.app/) | GenAI • Deep Learning |
 
-</div>
 
-<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,2,0&height=2" width="80%">
-</div>
-
 ---
 
-<div align="center">
+
 
 ## 🎨 **PORTFOLIO SHOWCASE** 🎨
 ### *Explore Each Production-Grade AI System Below*
 
-</div>
-
 ---
 
-<div align="center">
+
 
 ## 🎬 **WORK 1: Anime Recommender System** 🎬
 ### *Agentic RAG-Powered Anime Discovery Platform*
@@ -97,7 +86,6 @@
 ![Groq](https://img.shields.io/badge/Groq-F97316?style=flat-square&logo=lightning&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-</div>
 
 <img width="940" height="441" alt="image" src="https://github.com/user-attachments/assets/4b052bcc-b522-4a0b-bc84-8e9179c3a7c2" />
 
@@ -113,7 +101,7 @@
 
 ---
 
-<div align="center">
+
 
 ## 🛒 **WORK 2: Flipkart Product Recommender** 🛒
 ### *E-Commerce RAG-Based Product Discovery Engine*
@@ -126,9 +114,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-</div>
-
-<img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/b7eeae5d-3b28-4ea5-86d0-f56fb6bdde33" />
+ width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/b7eeae5d-3b28-4ea5-86d0-f56fb6bdde33" />
 
 <img width="940" height="567" alt="image" src="https://github.com/user-attachments/assets/7367655a-6754-436e-a02d-fbeb8efd5ae1" />
 
@@ -143,7 +129,7 @@
 
 ---
 
-<div align="center">
+
 
 ## ✈️ **WORK 3: AI Travel Planner** ✈️
 ### *Agent-Based Travel Reasoning & Recommendation System*
@@ -156,7 +142,6 @@
 ![Multi_Agent](https://img.shields.io/badge/Multi_Agent-4ECDC4?style=flat-square&logo=network&logoColor=white)
 ![Reasoning](https://img.shields.io/badge/Reasoning-7C3AED?style=flat-square&logo=brain&logoColor=white)
 
-</div>
 
 
 <img width="940" height="489" alt="image" src="https://github.com/user-attachments/assets/427a4d58-74a0-49c3-a7f7-acf35b79f03b" />
@@ -174,7 +159,7 @@
 
 ---
 
-<div align="center">
+
 
 ## 📚 **WORK 4: Study Buddy AI** 📚
 ### *DeepTutor - Intelligent Learning Companion System*
@@ -187,7 +172,6 @@
 ![Education](https://img.shields.io/badge/EdTech-FF6B6B?style=flat-square&logo=book&logoColor=white)
 ![AI_Tutor](https://img.shields.io/badge/AI_Tutor-AA96DA?style=flat-square&logo=graduation-cap&logoColor=white)
 
-</div>
 
 
 <img width="940" height="451" alt="image" src="https://github.com/user-attachments/assets/996f8225-6ef6-4b4a-b906-dc7b4106ad61" />
@@ -203,7 +187,7 @@
 
 ---
 
-<div align="center">
+
 
 ## 🎭 **WORK 5: Celebrity Recognition & QA System** 🎭
 ### *Vision-Language AI for Celebrity Detection & Information*
@@ -216,9 +200,7 @@
 ![Multimodal](https://img.shields.io/badge/Multimodal_AI-FF6B6B?style=flat-square&logo=ai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square&logo=database&logoColor=white)
 
-</div>
-
-<img width="940" height="486" alt="image" src="https://github.com/user-attachments/assets/4d1ef067-08ba-4015-b223-dfbb6d104e09" />
+ width="940" height="486" alt="image" src="https://github.com/user-attachments/assets/4d1ef067-08ba-4015-b223-dfbb6d104e09" />
 
 <img width="940" height="482" alt="image" src="https://github.com/user-attachments/assets/f6483798-291d-42a1-8c8f-beebe0febfe5" />
 
@@ -231,7 +213,7 @@
 
 ---
 
-<div align="center">
+
 
 ## 🤖 **WORK 6: Multi-AI Agent System** 🤖
 ### *Enterprise-Grade Collaborative AI Agent Orchestration*
@@ -244,9 +226,7 @@
 ![Orchestration](https://img.shields.io/badge/Orchestration-F97316?style=flat-square&logo=kubernetes&logoColor=white)
 ![Enterprise](https://img.shields.io/badge/Enterprise_AI-7C3AED?style=flat-square&logo=building&logoColor=white)
 
-</div>
-
-<img width="940" height="359" alt="image" src="https://github.com/user-attachments/assets/021e907e-b9f9-4687-8981-703c7c808e46" />
+ width="940" height="359" alt="image" src="https://github.com/user-attachments/assets/021e907e-b9f9-4687-8981-703c7c808e46" />
 
 <img width="940" height="513" alt="image" src="https://github.com/user-attachments/assets/731b8d33-b4ff-4e2b-9688-9102d8a1f9f4" />
 
@@ -261,7 +241,7 @@
 
 ---
 
-<div align="center">
+
 
 ## 🏥 **WORK 7: Medical RAG Chatbot** 🏥
 ### *Healthcare AI Assistant with Medical Knowledge Base*
@@ -274,9 +254,7 @@
 ![Medical_NLP](https://img.shields.io/badge/Medical_NLP-3B82F6?style=flat-square&logo=stethoscope&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 
-</div>
-
-<img width="940" height="445" alt="image" src="https://github.com/user-attachments/assets/6aa9cafc-2470-445f-8b88-ada2b2c80400" />
+ width="940" height="445" alt="image" src="https://github.com/user-attachments/assets/6aa9cafc-2470-445f-8b88-ada2b2c80400" />
 
 <img width="940" height="479" alt="image" src="https://github.com/user-attachments/assets/fb87864e-b066-4cde-868a-ec683843f072" />
 
@@ -289,7 +267,7 @@
 
 ---
 
-<div align="center">
+
 
 ## 🎵 **WORK 8: GenAI Music Composer** 🎵
 ### *AI-Powered Music Generation & Composition System*
@@ -302,9 +280,7 @@
 ![Deep_Learning](https://img.shields.io/badge/Deep_Learning-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white)
 ![Creative_AI](https://img.shields.io/badge/Creative_AI-A855F7?style=flat-square&logo=palette&logoColor=white)
 
-</div>
-
-<img width="940" height="485" alt="image" src="https://github.com/user-attachments/assets/f0022d14-c38b-4b2d-a4e1-2ef26e7062d8" />
+ width="940" height="485" alt="image" src="https://github.com/user-attachments/assets/f0022d14-c38b-4b2d-a4e1-2ef26e7062d8" />
 
 <img width="1154" height="1013" alt="image" src="https://github.com/user-attachments/assets/2e152666-4ef7-4ead-9b8c-8ef4cc79c477" />
 
@@ -317,47 +293,41 @@
 
 ---
 
-<div align="center">
+
 
 # 📦 **COMBINED TECH STACK** 📦
 ### *AI/ML + Cloud + DevOps / LLMOps / AIOps Across All 8 Works*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20&height=3" width="100%">
 
-</div>
-
 ---
 
-<div align="center">
+
 
 ## 🧠 **AI / ML / GenAI / Agentic AI Stack** 🧠
 
-</div>
 <img width="967" height="609" alt="image" src="https://github.com/user-attachments/assets/3937e1bd-cfa8-420b-8167-7670ff047dbc" />
 
 
 ---
 
-<div align="center">
+
 
 ## ☁️ **Cloud & Container Orchestration Stack** ☁️
 
-</div>
 <img width="1078" height="672" alt="image" src="https://github.com/user-attachments/assets/1d0501e5-1482-4be5-be31-f93a028960f9" />
 
 ---
 
-<div align="center">
+
 
 ## ⚙️ **DevOps / LLMOps / AIOps Stack** ⚙️
 
-</div>
-
-<img width="710" height="1296" alt="image" src="https://github.com/user-attachments/assets/a0c51241-e732-4ea6-b3f0-72e537d82781" />
+ width="710" height="1296" alt="image" src="https://github.com/user-attachments/assets/a0c51241-e732-4ea6-b3f0-72e537d82781" />
 
 ---
 
-<div align="center">
+
 
 ## 🌐 **Backend & Frontend Stack** 🌐
 
@@ -367,18 +337,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
-
 ---
 
-<div align="center">
+
 
 # 💼 **PROFESSIONAL EXPERIENCE** 💼
 ### *Under Works or Experience (LLMOps / GenAI / AIOps)*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
-
-</div>
 
 ---
 - ### Core LLMOps / GenAI Engineering
@@ -415,7 +381,7 @@
 
 ---
 
-<div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
@@ -441,32 +407,28 @@
 
 ## 📊 **GitHub Stats & Metrics** 📊
 
-<div align="center">
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ratnesh-181998&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-</div>
 
-<div align="center">
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ratnesh-181998&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=F38181&text_color=FFFFFF" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratnesh-181998&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=F38181&fire=FF6B6B&currStreakLabel=4ECDC4" width="48%" />
 
-</div>
 
-<div align="center">
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratnesh-181998&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=FFFFFF" width="48%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ratnesh-181998&theme=react-dark&hide_border=true&bg_color=0D1117&color=4ECDC4&line=F38181&point=FF6B6B" width="48%" />
-
-</div>
 
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F38181&center=true&vCenter=true&width=600&lines=Built+with+passion+for+the+AI+Community+🚀;Innovating+the+Future+of+AI+%26+ML;LLMOps+%7C+AIOps+%7C+GenAI+Excellence" alt="Footer Typing SVG" />
 
-</div>
 
-<div align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%">
-</div>
+
+
