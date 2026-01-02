@@ -33,3 +33,41 @@
 - **Frontend / UI:** Streamlit, HTML, CSS
 
 ---
+
+#### Under Projects or Experience (LLMOps / GenAI / AIOps)
+
+- ### Core LLMOps / GenAI Engineering
+
+<img width="1073" height="502" alt="image" src="https://github.com/user-attachments/assets/66d69464-3ad5-4292-83ad-ca695d7b9743" />
+
+- ###  Cloud & Kubernetes Engineering
+
+<img width="1064" height="281" alt="image" src="https://github.com/user-attachments/assets/1c987835-db92-4891-a99a-f36348bb7138" />
+
+- ### DevOps / LLMOps / AIOps Practices
+
+<img width="1079" height="470" alt="image" src="https://github.com/user-attachments/assets/8cf10ca7-84d0-400f-a0e9-063db175bbd8" />
+
+- ### Backend & Application Development
+
+<img width="1072" height="206" alt="image" src="https://github.com/user-attachments/assets/c64eb4ed-76ba-46e8-8155-db06adb2accd" />
+
+- ### 🧠 GenAI Engineer Stack
+
+<img width="656" height="347" alt="image" src="https://github.com/user-attachments/assets/0c0efc09-0c7b-4124-af46-a8dea3274282" />
+
+- ### ⚙️ LLMOps Engineer Stack
+
+  <img width="770" height="436" alt="image" src="https://github.com/user-attachments/assets/e8fdb8b1-47bd-4a9b-97fc-9f1c8fb6802b" />
+
+- ### 🤖 MLOps / AIOps Stack
+
+<img width="863" height="335" alt="image" src="https://github.com/user-attachments/assets/d718ec22-06b6-4014-bd52-7a857b62e9d9" />
+
+---
+
+
+
+
+
+
