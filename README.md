@@ -77,7 +77,7 @@
 ### *Explore Each Production-Grade AI System Below*
 
 ---
-## 🌤️ ** WORK 1 : Weather MCP Agent: Global Intelligence System**
+## 🌤️ **WORK 1 : Weather MCP Agent: Global Intelligence System**
 
 [![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/weather-mcp-a2a)
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://weather-mcp-a2a-agent-to-agent3a95dbsjhgfhd3yussfz3e.streamlit.app/)
