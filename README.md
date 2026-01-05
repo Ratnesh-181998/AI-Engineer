@@ -1,5 +1,5 @@
 
-# 🚀 **LLMOps & AIOps Portfolio** 🚀
+# 🚀 **AGENTIC AI | GEN AI | LLMOps & AIOps Portfolio** 🚀
 ### *8 Production-Grade AI Systems Across GenAI, Cloud & DevOps*
 
 [![AI](https://img.shields.io/badge/🤖_Agentic_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Ratnesh-181998)
