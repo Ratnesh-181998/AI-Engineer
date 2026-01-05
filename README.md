@@ -361,6 +361,41 @@
 
 ---
 
+## 🤖 **WORK 10:  Universal PDF RAG Chatbot** 
+### *Transform your PDFs into an intelligent, conversational knowledge base powered by cutting-edge AI*
+
+[![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Universal-PDF-RAG-Chatbot)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://universal-pdf-rag-chatbot-mhsi4ygebe6hmq3ij6d665.streamlit.app/)
+
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
+[![LangChain](https://img.shields.io/badge/LangChain-0.2.16-green.svg)](https://langchain.com/)
+[![FAISS](https://img.shields.io/badge/FAISS-Latest-orange.svg)](https://github.com/facebookresearch/faiss)
+
+- A production-ready **Retrieval-Augmented Generation (RAG)** system that enables natural language conversations with your PDF documents. Built with enterprise-grade technologies including LangChain, FAISS vector search, and high-speed LLM inference via Groq.
+
+### ✨ Features
+
+#### Core Capabilities
+- 📁 **Multi-PDF Upload** - Process single or multiple PDF documents simultaneously
+- 🔍 **Semantic Search** - FAISS-powered vector similarity search for accurate retrieval
+- 🤖 **Dual LLM Support** - Groq (ultra-fast) with OpenAI fallback
+- 📚 **Source Citations** - Every answer includes document references with page numbers
+- 💬 **Chat History** - Persistent conversation tracking with download capability
+- 🔄 **Smart Caching** - Persistent FAISS index for instant subsequent queries
+
+#### Advanced Features
+- 🎨 **Modern UI** - Glassmorphic design with gradient animations
+- 📊 **Real-time Logs** - Interactive log viewer with filtering
+- 🔧 **Debug Mode** - View retrieved context chunks for transparency
+- 📥 **Export Options** - Download chat history as text files
+- ⚡ **OCR Fallback** - Automatic image-based PDF text extraction
+- 🎯 **Adaptive Retrieval** - Configurable Top-K and chunk parameters
+
+  
+---
+
+---
 
 
 # 📦 **COMBINED TECH STACK** 📦
