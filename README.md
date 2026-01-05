@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=AGENTIC GEN%20AI%20PORTFOLIO&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=AGENTIC%20AI%20PORTFOLIO&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 
