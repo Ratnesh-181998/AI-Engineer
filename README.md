@@ -43,8 +43,50 @@
 ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 
 ---
+# AI Periodic Table Explained: Mapping LLMs, RAG & AI Agent Frameworks
+
+<img width="940" height="651" alt="image" src="https://github.com/user-attachments/assets/14dab4d9-31ab-4ff5-9acc-f5c61bb7598e" />
+
+- ### A RAG chatbot = PR + EM + VX + RG + LG + GR
+- 
+<img width="940" height="682" alt="image" src="https://github.com/user-attachments/assets/6fb9461b-2503-4660-bf76-1deece3e5012" />
+
+- An Agentic system = AG + FC + FW (looping until the goal is achieved)
+
+<img width="940" height="632" alt="image" src="https://github.com/user-attachments/assets/ab07cb85-6f33-4d94-a013-ff80561bcb34" />
+
+---
+### 🚀 AI Periodic Table: A Simple Way to Understand Modern AI Systems
+ - AI systems are becoming increasingly complex — LLMs, RAG, agents, tools, guardrails, multimodal models… it’s easy to get lost.
+This video introduces a powerful mental model: the AI Periodic Table 🧠
+Just like the chemistry periodic table, it organizes AI into foundational elements, compositions, deployment patterns, and emerging capabilities.
+🔹 Row 1 – Primitives (Foundations)
+• Prompts (PR) – instructions that drive behavior
+• Embeddings (EM) – semantic representations
+• LLMs (LG) – core reasoning engines
+🔹 Row 2 – Compositions (Where value starts)
+• Function Calling (FC) – tool execution
+• Vector Databases (VX) – semantic memory
+• RAG (RG) – grounded generation
+• Guardrails (GR) – safety & validation
+• Multimodal Models (MM)
+🔹 Row 3 – Deployment (Production AI)
+• Agents (AG) – think → act → observe loops
+• Fine-tuning (FT) – domain adaptation
+• Frameworks (FW) – orchestration (LangChain, etc.)
+• Red Teaming (RT) – adversarial testing
+• Small Models (SM) – fast & cost-efficient
+🔹 Row 4 – Emerging (Future direction)
+• Multi-Agent Systems (MA)
+• Synthetic Data (SY)
+• Interpretability (IN)
+• Thinking Models (TH)
+⚗️ What’s powerful is how these elements combine into “reactions”:
+•	A RAG chatbot = PR + EM + VX + RG + LG + GR
+•	An Agentic system = AG + FC + FW (looping until the goal is achieved)
 
 
+---
 
 ## 📑 **TABLE OF CONTENTS** 📑
 
