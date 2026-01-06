@@ -102,10 +102,7 @@
 
 ---
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12&height=2" width="80%">
-
 
 
 
