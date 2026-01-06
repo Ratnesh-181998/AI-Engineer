@@ -78,7 +78,7 @@
 <img width="662" height="832" alt="image" src="https://github.com/user-attachments/assets/1d00a501-b2d3-4151-a4eb-3328e2f92920" />
 
 
-#  AI Periodic Table Explained: Mapping LLMs, RAG & AI Agent Frameworks
+#  [AI Periodic Table Explained: Mapping LLMs, RAG & AI Agent Frameworks](https://www.youtube.com/watch?v=ESBMgZHzfG0)
 
 <img width="940" height="651" alt="image" src="https://github.com/user-attachments/assets/14dab4d9-31ab-4ff5-9acc-f5c61bb7598e" />
 
