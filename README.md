@@ -44,6 +44,11 @@
 
 ---
 
+# 🚀 𝗧𝗵𝗲 𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗔𝗜 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗲 — 𝗙𝗿𝗼𝗺 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝘁𝗼 𝗔𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲
+
+<img width="918" height="1113" alt="image" src="https://github.com/user-attachments/assets/4d1036ac-d021-4599-9a05-0f1cfb4682d9" />
+
+
 #  AI Periodic Table Explained: Mapping LLMs, RAG & AI Agent Frameworks
 
 <img width="940" height="651" alt="image" src="https://github.com/user-attachments/assets/14dab4d9-31ab-4ff5-9acc-f5c61bb7598e" />
