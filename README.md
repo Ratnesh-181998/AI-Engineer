@@ -54,6 +54,9 @@
 
 <img width="487" height="634" alt="image" src="https://github.com/user-attachments/assets/0f9ef8cc-3ade-4b26-a522-9bd50fefc207" />
 
+<img width="1868" height="869" alt="image" src="https://github.com/user-attachments/assets/1e227165-0553-4e3c-84a4-284a960be2dc" />
+
+
 # [Stanford’s LLM lecture series](https://www.youtube.com/watch?v=Ub3GoFaUcds&list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)
 
 <img width="662" height="832" alt="image" src="https://github.com/user-attachments/assets/1d00a501-b2d3-4151-a4eb-3328e2f92920" />
