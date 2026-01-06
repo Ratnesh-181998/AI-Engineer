@@ -54,8 +54,6 @@
 
 <img width="595" height="795" alt="image" src="https://github.com/user-attachments/assets/00803064-2880-4e38-b192-2edea9bddd93" />
 
-https://www.youtube.com/watch?v=0NBILspM4c4&t=6638s
-
 <img width="680" height="828" alt="image" src="https://github.com/user-attachments/assets/97185798-cb78-435d-b3c3-644adbb8071f" />
 
 <img width="398" height="631" alt="image" src="https://github.com/user-attachments/assets/53494997-74f4-456e-9001-c2fba0dfa92d" />
@@ -66,12 +64,13 @@ https://www.youtube.com/watch?v=0NBILspM4c4&t=6638s
 
 <img width="487" height="634" alt="image" src="https://github.com/user-attachments/assets/0f9ef8cc-3ade-4b26-a522-9bd50fefc207" />
 
-<img width="1868" height="869" alt="image" src="https://github.com/user-attachments/assets/1e227165-0553-4e3c-84a4-284a960be2dc" />
-
 <img width="445" height="632" alt="image" src="https://github.com/user-attachments/assets/57a1873a-b79a-474f-ae71-73afb4b2c242" />
 
 <img width="592" height="825" alt="image" src="https://github.com/user-attachments/assets/c1795f14-8044-4019-b96a-f29588e819bd" />
 
+# [NVIDIA Live with CEO Jensen Huang](https://www.youtube.com/watch?v=0NBILspM4c4&t=6638s)
+
+<img width="1868" height="869" alt="image" src="https://github.com/user-attachments/assets/1e227165-0553-4e3c-84a4-284a960be2dc" />
 
 # [Stanford’s LLM lecture series](https://www.youtube.com/watch?v=Ub3GoFaUcds&list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)
 
