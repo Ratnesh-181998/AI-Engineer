@@ -1,7 +1,12 @@
 <div align="center">
-
-![AI Engineer](https://img.shields.io/badge/ROLE-AI_ENGINEER-0ea5e9?style=for-the-badge)
-
+  <img src="https://svg-banners.vercel.app/api
+  ?type=origin
+  &text1=AI%20ENGINEER
+  &width=1200
+  &height=180
+  &fontSize=52
+  &fontWeight=900
+  &gradient=true" />
 </div>
 
 
