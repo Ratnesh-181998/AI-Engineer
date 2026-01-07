@@ -16,7 +16,8 @@
 
  ---
 
-## AI Engineering Topics Explanation 
+## AI Engineering  TOPIC detailed explanations & clear understanding of
+- Agentic AI · Generative AI · LLMs · RAG · Agentic AI Frameworks 🌈
 
 ---
 
