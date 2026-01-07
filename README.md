@@ -1,4 +1,14 @@
-# AI-Engineer
+
+<div align="center">
+
+![AI Engineer](https://img.shields.io/badge/ROLE-AI_ENGINEER-0ea5e9?style=for-the-badge)
+
+</div>
+
+<img width="1025" height="240" alt="image" src="https://github.com/user-attachments/assets/5ecbd43e-74e4-488c-9970-02b4f00f6794" />
+
+---
+
 ## AI Engineering Topics Explanation 
 
 ---
