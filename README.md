@@ -6,6 +6,7 @@
 
 <img width="1025" height="240" alt="image" src="https://github.com/user-attachments/assets/5ecbd43e-74e4-488c-9970-02b4f00f6794" />
 
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=AGENTIC%20AI%20and%20GEN%20AI&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
