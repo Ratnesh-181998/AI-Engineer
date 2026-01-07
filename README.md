@@ -81,6 +81,12 @@
 
 ---
 
+# Different Types of Retrieval in RAG System
+
+<img width="473" height="368" alt="image" src="https://github.com/user-attachments/assets/706c70bb-fd3c-4e2d-b44c-21e7967171b8" />
+
+---
+
 # Understanding the Layers of Intelligence in Modern AI Systems
 
 <img width="409" height="429" alt="image" src="https://github.com/user-attachments/assets/6d2a6d56-1113-41d4-a4c5-9e1b05ced1c7" />
