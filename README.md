@@ -81,7 +81,7 @@
 
 ---
 
-# Different Types of Retrieval in RAG System
+# [Different Types of Retrieval in RAG System](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/Different%20Types%20of%20Retrieval%20in%20RAG%20System.pdf)
 
 <img width="473" height="368" alt="image" src="https://github.com/user-attachments/assets/706c70bb-fd3c-4e2d-b44c-21e7967171b8" />
 
