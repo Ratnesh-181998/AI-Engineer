@@ -105,6 +105,10 @@
 
 <img width="592" height="825" alt="image" src="https://github.com/user-attachments/assets/c1795f14-8044-4019-b96a-f29588e819bd" />
 
+### [Building Agents with Model Context Protocol Full Workshop ](https://www.youtube.com/watch?v=kQmXtrmQ5Zg)
+
+<img width="1574" height="828" alt="image" src="https://github.com/user-attachments/assets/fc18aa57-a859-4948-9712-a4d617855407" />
+
 
 # [NVIDIA Live with CEO Jensen Huang](https://www.youtube.com/watch?v=0NBILspM4c4&t=6638s)
 
