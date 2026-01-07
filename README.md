@@ -87,6 +87,8 @@
 
 <img width="513" height="825" alt="image" src="https://github.com/user-attachments/assets/3860a1b6-98c1-4e51-99b7-a790fc31868b" />
 
+<img width="586" height="820" alt="image" src="https://github.com/user-attachments/assets/841bbd25-3ec5-4bfb-a48e-2f3e57cf536e" />
+
 ---
 
 #  Understanding the MCP Workflow: How AI + Tools Work Together Seamlessly
