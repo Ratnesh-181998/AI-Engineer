@@ -186,6 +186,9 @@
 -	An Agentic system = AG + FC + FW (looping until the goal is achieved)
 
 
+---
+
+<img width="704" height="443" alt="image" src="https://github.com/user-attachments/assets/4ef7c986-973b-4980-b869-146978d9003e" />
 
 
 ---
