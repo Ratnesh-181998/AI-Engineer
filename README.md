@@ -81,6 +81,14 @@
 
 ---
 
+# Understanding the Layers of Intelligence in Modern AI Systems
+
+<img width="409" height="429" alt="image" src="https://github.com/user-attachments/assets/6d2a6d56-1113-41d4-a4c5-9e1b05ced1c7" />
+
+<img width="513" height="825" alt="image" src="https://github.com/user-attachments/assets/3860a1b6-98c1-4e51-99b7-a790fc31868b" />
+
+---
+
 #  Understanding the MCP Workflow: How AI + Tools Work Together Seamlessly
 
 <img width="411" height="556" alt="image" src="https://github.com/user-attachments/assets/fe24c6dc-70fd-49dd-8664-2b6564af8176" />
