@@ -275,6 +275,13 @@
 
 ---
 
+# 𝐈𝐟 𝐈 𝐡𝐚𝐝 𝐭𝐨 𝐞𝐱𝐩𝐥𝐚𝐢𝐧 𝐑𝐀𝐆 𝐭𝐨 𝐚 𝐛𝐞𝐠𝐢𝐧𝐧𝐞𝐫 𝐢𝐧 𝐨𝐧𝐞 𝐥𝐢𝐧𝐞
+
+<img width="573" height="476" alt="image" src="https://github.com/user-attachments/assets/a87effbd-80c9-40c2-bbee-b9facd78c609" />
+<img width="498" height="512" alt="image" src="https://github.com/user-attachments/assets/0b9ec2d3-b0c0-4196-ad56-cdd21100c593" />
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
