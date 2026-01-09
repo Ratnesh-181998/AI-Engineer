@@ -205,6 +205,13 @@
 
 <img width="574" height="682" alt="image" src="https://github.com/user-attachments/assets/9f952bfb-498a-4101-a064-3e38dece1850" />
 
+---
+
+# 𝐀𝐈 𝐭𝐨𝐨𝐥𝐬 𝐚𝐫𝐞 𝐧𝐨 𝐥𝐨𝐧𝐠𝐞𝐫 𝐣𝐮𝐬𝐭 𝐛𝐮𝐳𝐳𝐰𝐨𝐫𝐝𝐬. 𝐓𝐡𝐞𝐲 𝐚𝐫𝐞 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐢𝐧𝐠 𝐡𝐨𝐰 𝐰𝐞 𝐛𝐮𝐢𝐥𝐝, 𝐜𝐨𝐧𝐧𝐞𝐜𝐭, 𝐚𝐧𝐝 𝐬𝐜𝐚𝐥𝐞 𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐞𝐬. 𝐋𝐞𝐭’𝐬 𝐛𝐫𝐞𝐚𝐤 𝐝𝐨𝐰𝐧 𝐬𝐨𝐦𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐤𝐞𝐲 𝐩𝐥𝐚𝐲𝐞𝐫𝐬 𝐬𝐡𝐚𝐩𝐢𝐧𝐠 𝐭𝐡𝐢𝐬 𝐞𝐯𝐨𝐥𝐮𝐭𝐢𝐨𝐧:
+
+<img width="503" height="295" alt="image" src="https://github.com/user-attachments/assets/793e08a2-9abe-4c35-8288-953c2953d39f" />
+
+<img width="520" height="446" alt="image" src="https://github.com/user-attachments/assets/a2205f32-74e7-4c38-85cc-cfe8345e8369" />
 
 ---
 
