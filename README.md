@@ -247,6 +247,16 @@
 <img width="330" height="526" alt="image" src="https://github.com/user-attachments/assets/835ea047-245a-4ec7-a5e2-48b7caef3d60" />
 
 ---
+# VECTOR DATABASE
+<img width="792" height="827" alt="image" src="https://github.com/user-attachments/assets/e24ac76e-2fdb-40dd-b705-3804c3754419" />
+
+---
+
+#  LLMs cheatsheet
+
+<img width="1459" height="719" alt="image" src="https://github.com/user-attachments/assets/73365bb5-d7b9-4596-926d-2e20248824b6" />
+
+---
 
 ---
 
