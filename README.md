@@ -221,6 +221,14 @@
 
 <img width="476" height="669" alt="image" src="https://github.com/user-attachments/assets/453975d2-ab69-4d96-b53e-6ca319cf5805" />
 
+---
+
+# E𝐧𝐝𝐥𝐞𝐬𝐬 𝐋𝐋𝐌 𝐨𝐮𝐭𝐩𝐮𝐭𝐬. 𝐅𝐫𝐮𝐬𝐭𝐫𝐚𝐭𝐞𝐝. 𝐈𝐧𝐜𝐨𝐧𝐬𝐢𝐬𝐭𝐞𝐧𝐭. 𝐓𝐡𝐞𝐧 𝐝𝐢𝐬𝐜𝐨𝐯𝐞𝐫𝐞𝐝 𝐭𝐡𝐞𝐬𝐞 9 𝐞𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥𝐬 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐢𝐠𝐧𝐨𝐫𝐞𝐬
+
+<img width="403" height="716" alt="image" src="https://github.com/user-attachments/assets/8d6b726f-48bd-43a3-b39d-5b9467d34995" />
+
+<img width="562" height="675" alt="image" src="https://github.com/user-attachments/assets/9b6abdc1-3640-41ed-b066-d46db870b641" />
+
 
 ---
 
