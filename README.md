@@ -260,6 +260,11 @@
 
 ---
 
+# 𝐇𝐨𝐰 𝐭𝐨 𝐈𝐦𝐩𝐫𝐨𝐯𝐞 𝐀𝐏𝐈 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞
+
+<img width="419" height="750" alt="image" src="https://github.com/user-attachments/assets/b243c15b-ec08-4207-9202-f0999afe9814" />
+<img width="415" height="474" alt="image" src="https://github.com/user-attachments/assets/e837dfbc-f84d-4bc3-b8e4-5616b0cc21f1" />
+
 ---
 
 
