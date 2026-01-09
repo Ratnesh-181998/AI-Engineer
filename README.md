@@ -229,6 +229,22 @@
 
 <img width="562" height="675" alt="image" src="https://github.com/user-attachments/assets/9b6abdc1-3640-41ed-b066-d46db870b641" />
 
+---
+
+#  AI Agents, your Agentic RAG depends on your tech stack
+
+<img width="416" height="554" alt="image" src="https://github.com/user-attachments/assets/814d09dd-3fcf-4a67-b1c7-2688d7d1aca8" />
+
+<img width="535" height="690" alt="image" src="https://github.com/user-attachments/assets/0be5ec25-cb9c-4095-8306-5878864e8acf" />
+
+---
+
+# I broke this down to show what’s really happening inside a production-grade RAG system.
+- Here’s how to understand each layer and why it exists:
+
+<img width="365" height="675" alt="image" src="https://github.com/user-attachments/assets/5932c15b-ad5e-41ac-902d-47d22a688081" />
+
+<img width="330" height="526" alt="image" src="https://github.com/user-attachments/assets/835ea047-245a-4ec7-a5e2-48b7caef3d60" />
 
 ---
 
