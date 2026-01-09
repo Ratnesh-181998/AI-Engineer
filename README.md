@@ -26,6 +26,7 @@
 
 <img width="835" height="1027" alt="image" src="https://github.com/user-attachments/assets/9775ec6f-438c-4379-a004-045f3f37e7d1" />
 
+<img width="595" height="727" alt="image" src="https://github.com/user-attachments/assets/616453ee-00a0-475c-b84c-b1c035e9a918" />
 
 # AI agents roadmap divided into 3 levels
 
