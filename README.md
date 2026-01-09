@@ -254,6 +254,8 @@
 
 #  LLMs cheatsheet
 
+<img width="376" height="333" alt="image" src="https://github.com/user-attachments/assets/8dc7103e-c353-4b6e-b360-7a1ac5433a65" />
+
 <img width="1459" height="719" alt="image" src="https://github.com/user-attachments/assets/73365bb5-d7b9-4596-926d-2e20248824b6" />
 
 ---
