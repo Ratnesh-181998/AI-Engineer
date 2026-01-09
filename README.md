@@ -197,6 +197,14 @@
 
 ---
 
+# The Complete AI/LLM Ecosystem: A Developer's Guide
+## 📊 Understanding the Modern AI Stack
+-Building AI applications today requires understanding multiple interconnected layers. Whether you're working on Retrieval-Augmented Generation (RAG) or LLM-based systems, here are the 7 critical components you need to know:
+
+<img width="546" height="649" alt="image" src="https://github.com/user-attachments/assets/07abdf37-0ecb-4103-84b0-7649ed10b015" />
+
+<img width="574" height="682" alt="image" src="https://github.com/user-attachments/assets/9f952bfb-498a-4101-a064-3e38dece1850" />
+
 
 ---
 
