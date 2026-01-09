@@ -267,6 +267,13 @@
 
 ---
 
+# 𝐋𝐚𝐧𝐠𝐆𝐫𝐚𝐩𝐡 𝐯𝐬 𝐂𝐫𝐞𝐰𝐀𝐈 𝐯𝐬 𝐀𝐮𝐭𝐨𝐆𝐞𝐧 𝐯𝐬 𝐌𝐞𝐭𝐚𝐆𝐏𝐓: 𝐐𝐮𝐢𝐜𝐤 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤 𝐁𝐚𝐭𝐭𝐥𝐞
+
+<img width="505" height="513" alt="image" src="https://github.com/user-attachments/assets/187f298c-f4b0-49ad-b6be-ba09a21a37ae" />
+
+<img width="558" height="486" alt="image" src="https://github.com/user-attachments/assets/020aa1a4-f531-4b8a-a88e-12142107b5eb" />
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
