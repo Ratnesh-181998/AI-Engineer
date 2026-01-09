@@ -215,6 +215,17 @@
 
 ---
 
+# Everyone is talking about Agentic AI. Very few are talking about the architecture behind it. Lets do it!!!!
+
+<img width="559" height="542" alt="image" src="https://github.com/user-attachments/assets/d5c3f926-abe1-4586-b6ee-fee48ad06da8" />
+
+<img width="476" height="669" alt="image" src="https://github.com/user-attachments/assets/453975d2-ab69-4d96-b53e-6ca319cf5805" />
+
+
+---
+
+---
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
