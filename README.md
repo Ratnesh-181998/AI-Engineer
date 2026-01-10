@@ -298,6 +298,15 @@
 
 <img width="1622" height="667" alt="image" src="https://github.com/user-attachments/assets/e6f16016-9e97-4f36-8c9e-20585952c080" />
 
+---
+
+# AI Agents, RAG has evolved to become an AI ecosystem
+
+<img width="551" height="597" alt="image" src="https://github.com/user-attachments/assets/9401d163-d648-4515-8e19-02fbe17e4f74" />
+<img width="562" height="581" alt="image" src="https://github.com/user-attachments/assets/3d96b0b2-c730-4815-99b0-043e73d23344" />
+<img width="507" height="315" alt="image" src="https://github.com/user-attachments/assets/eb2573ba-4701-41db-b85f-f0e05b2dfe21" />
+
+<img width="543" height="675" alt="image" src="https://github.com/user-attachments/assets/5be4ef7b-e14a-4c39-b698-1b319c8c0358" />
 
 
 ---
