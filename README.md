@@ -288,6 +288,17 @@
 <img width="829" height="646" alt="image" src="https://github.com/user-attachments/assets/74a44572-a99a-48c0-adcc-61a6bc794d97" />
 <img width="754" height="494" alt="image" src="https://github.com/user-attachments/assets/c6bb5140-cdc0-4071-a4dd-0e8af22e59ba" />
 
+---
+
+# A Visual Taxonomy of Retrieval-Augmented Generation (RAG) Architectures:
+
+- RAG has rapidly evolved from simple vector-based retrieval to agentic, multi-hop, graph-driven, and federated systems.
+
+- This visual brings together 12 major RAG architectures—from Naïve RAG to Tool-Integrated and Federated RAG—highlighting how modern AI systems reason, retrieve, and adapt at scale.
+
+<img width="1622" height="667" alt="image" src="https://github.com/user-attachments/assets/e6f16016-9e97-4f36-8c9e-20585952c080" />
+
+
 
 ---
 
