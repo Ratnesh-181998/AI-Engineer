@@ -355,6 +355,14 @@
 <img width="818" height="978" alt="image" src="https://github.com/user-attachments/assets/39d013c1-254c-42a7-928f-45b530cd2bb2" />
 
 
+---
+
+# Embeddings are the secret language of AI
+
+<img width="943" height="1036" alt="image" src="https://github.com/user-attachments/assets/a76ae18c-7ee2-4ab1-b144-811d703e0ce5" />
+<img width="990" height="580" alt="image" src="https://github.com/user-attachments/assets/8287bf57-40b0-4d96-a340-c71c0610b1c2" />
+<img width="853" height="1196" alt="image" src="https://github.com/user-attachments/assets/2aaf4d6b-c2ba-4e33-a334-d539bb9272e9" />
+
 
 ---
 
