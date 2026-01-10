@@ -282,6 +282,15 @@
 
 ---
 
+# Master All 20 Agentic AI Design Patterns
+
+<img width="873" height="1346" alt="image" src="https://github.com/user-attachments/assets/3244636e-2044-4a4d-bf06-94bf4e6cc661" />
+<img width="829" height="646" alt="image" src="https://github.com/user-attachments/assets/74a44572-a99a-48c0-adcc-61a6bc794d97" />
+<img width="754" height="494" alt="image" src="https://github.com/user-attachments/assets/c6bb5140-cdc0-4071-a4dd-0e8af22e59ba" />
+
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
