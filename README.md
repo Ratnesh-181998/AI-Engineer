@@ -325,6 +325,16 @@
 <img width="416" height="456" alt="image" src="https://github.com/user-attachments/assets/1be0d386-c8fd-471e-8f6a-1a83a1147440" />
 <img width="409" height="484" alt="image" src="https://github.com/user-attachments/assets/da693575-c7cb-4ac5-a32b-403144d695a7" />
 
+---
+
+# 𝐘𝐨𝐮𝐫 𝐑𝐀𝐆 𝐩𝐢𝐩𝐞𝐥𝐢𝐧𝐞 𝐢𝐬𝐧’𝐭 𝐟𝐚𝐢𝐥𝐢𝐧𝐠 𝐛𝐞𝐜𝐚𝐮𝐬𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐦𝐨𝐝𝐞𝐥, 𝐢𝐭’𝐬 𝐟𝐚𝐢𝐥𝐢𝐧𝐠 𝐛𝐞𝐜𝐚𝐮𝐬𝐞 𝐨𝐟 𝐛𝐚𝐝 𝐜𝐡𝐮𝐧𝐤𝐢𝐧𝐠.
+<img width="709" height="847" alt="image" src="https://github.com/user-attachments/assets/511a4202-4b2b-40a0-aebe-f7b93a938904" />
+<img width="925" height="1350" alt="image" src="https://github.com/user-attachments/assets/92dbaaa8-a0d3-4943-8918-621638141825" />
+<img width="954" height="1227" alt="image" src="https://github.com/user-attachments/assets/fbe565fb-ae07-400c-bdaf-a2a34d41bddc" />
+<img width="955" height="1324" alt="image" src="https://github.com/user-attachments/assets/6fb92122-1729-405c-a00f-5cdf4269dccc" />
+<img width="953" height="1304" alt="image" src="https://github.com/user-attachments/assets/bb0c1e7d-a5c1-470e-ae4d-acdae5e09569" />
+<img width="971" height="1235" alt="image" src="https://github.com/user-attachments/assets/1cb83670-e714-4d50-a3dc-47a8bc1364fb" />
+
 
 ---
 
