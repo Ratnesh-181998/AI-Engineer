@@ -308,6 +308,23 @@
 
 <img width="543" height="675" alt="image" src="https://github.com/user-attachments/assets/5be4ef7b-e14a-4c39-b698-1b319c8c0358" />
 
+---
+
+# Popular AI Agents Frameworks
+
+<img width="553" height="668" alt="image" src="https://github.com/user-attachments/assets/9bbd8821-382c-4412-9051-fa94c6f98635" />
+<img width="541" height="448" alt="image" src="https://github.com/user-attachments/assets/ff9e587a-8823-4b5d-8c15-b823df4acac0" />
+<img width="851" height="769" alt="image" src="https://github.com/user-attachments/assets/171a7b23-a85c-4eed-9a14-72a6a996eaab" />
+<img width="441" height="489" alt="image" src="https://github.com/user-attachments/assets/36b1791c-f84f-4512-b365-b8172f941830" />
+<img width="431" height="434" alt="image" src="https://github.com/user-attachments/assets/5e1ebcca-165d-4c1c-a1c2-d55e4688f9b3" />
+<img width="430" height="465" alt="image" src="https://github.com/user-attachments/assets/c37e6ea4-fca3-4735-ba6b-7f14fe827381" />
+<img width="395" height="474" alt="image" src="https://github.com/user-attachments/assets/c6d1a78c-50e4-465b-b550-73fdd8d40c16" />
+<img width="411" height="453" alt="image" src="https://github.com/user-attachments/assets/12dcc017-8ec5-466d-b6be-1c9db354c3ca" />
+<img width="421" height="481" alt="image" src="https://github.com/user-attachments/assets/48c6842b-8cac-4d22-8dc4-658cab2253c5" />
+<img width="429" height="443" alt="image" src="https://github.com/user-attachments/assets/776c7562-d8cb-4ca8-bf13-4c2525e8db43" />
+<img width="416" height="456" alt="image" src="https://github.com/user-attachments/assets/1be0d386-c8fd-471e-8f6a-1a83a1147440" />
+<img width="409" height="484" alt="image" src="https://github.com/user-attachments/assets/da693575-c7cb-4ac5-a32b-403144d695a7" />
+
 
 ---
 
