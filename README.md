@@ -335,6 +335,26 @@
 <img width="953" height="1304" alt="image" src="https://github.com/user-attachments/assets/bb0c1e7d-a5c1-470e-ae4d-acdae5e09569" />
 <img width="971" height="1235" alt="image" src="https://github.com/user-attachments/assets/1cb83670-e714-4d50-a3dc-47a8bc1364fb" />
 
+---
+
+# Master LLM Fine-Tuning
+
+<img width="809" height="994" alt="image" src="https://github.com/user-attachments/assets/2c39b96d-9f3b-4ee1-ac13-edf212ea8a85" />
+<img width="815" height="1014" alt="image" src="https://github.com/user-attachments/assets/a08972b2-a0aa-4c37-8cd0-7b91e0aa83a4" />
+<img width="818" height="968" alt="image" src="https://github.com/user-attachments/assets/cfab39fa-40d4-491e-ad23-5a881b7b6e95" />
+<img width="801" height="963" alt="image" src="https://github.com/user-attachments/assets/19f96cd3-2ded-4341-8e53-ca28913eb6b9" />
+<img width="807" height="948" alt="image" src="https://github.com/user-attachments/assets/dc12f52b-3f27-428e-9a93-820ad0e0eed8" />
+<img width="798" height="1010" alt="image" src="https://github.com/user-attachments/assets/3c7af5fd-5abb-458e-8f91-3cd194937746" />
+<img width="819" height="964" alt="image" src="https://github.com/user-attachments/assets/a51b2735-e381-4645-8af4-12e3d5ea6b3d" />
+<img width="819" height="998" alt="image" src="https://github.com/user-attachments/assets/d87b7e89-6d5c-491d-a08d-47137eb9a307" />
+<img width="801" height="951" alt="image" src="https://github.com/user-attachments/assets/b8a97154-57cd-4c44-8224-1515b2dcab36" />
+<img width="820" height="992" alt="image" src="https://github.com/user-attachments/assets/25580b32-b16c-4f62-9146-be8e3cc0f8cf" />
+<img width="806" height="997" alt="image" src="https://github.com/user-attachments/assets/b36a55aa-0398-4d09-baf3-fb365913c81d" />
+<img width="811" height="989" alt="image" src="https://github.com/user-attachments/assets/9d9e6ba8-359f-4888-b305-6e13ff568064" />
+<img width="824" height="983" alt="image" src="https://github.com/user-attachments/assets/a577dcb7-fb03-4b76-b11e-0b5fdc691549" />
+<img width="818" height="978" alt="image" src="https://github.com/user-attachments/assets/39d013c1-254c-42a7-928f-45b530cd2bb2" />
+
+
 
 ---
 
