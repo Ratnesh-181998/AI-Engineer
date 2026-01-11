@@ -363,6 +363,46 @@
 <img width="990" height="580" alt="image" src="https://github.com/user-attachments/assets/8287bf57-40b0-4d96-a340-c71c0610b1c2" />
 <img width="853" height="1196" alt="image" src="https://github.com/user-attachments/assets/2aaf4d6b-c2ba-4e33-a334-d539bb9272e9" />
 
+# MCP & A2A (Agent2Agent) protocol, explained visually!
+
+- Agentic applications require both A2A and MCP.
+
+- MCP provides agents with access to tools.
+- A2A allows agents to connect with other agents and collaborate in teams.
+
+- The visual below explains where exactly they fit into the Agent protocol stack.
+
+### What is A2A?
+
+- A2A (Agent2Agent) enables multiple AI agents to work together on tasks without directly sharing their internal memory, thoughts, or tools.
+
+Instead, they communicate by exchanging context, task updates, instructions, and data.
+
+### A2A <> MCP
+
+- AI applications can model A2A agents as MCP resources, represented by their AgentCard (more about cards in next tweet).
+
+-  Using this, AI Agents connecting to an MCP server can discover new Agents to collaborate with and connect via the A2A protocol.
+
+### Agent Cards (ID cards for Agents)
+
+- A2A-supporting Remote Agents must publish a JSON Agent Card detailing their capabilities and authentication.
+
+- Clients use this to find and communicate with the best agent for a task.
+
+### What makes A2A powerful?
+
+- Secure collaboration
+- Task and state management
+- UX negotiation
+- Capability discovery
+- Agents from different frameworks working together
+
+- Additionally, it can integrate with MCP.
+
+- If you want to learn MCPs from scratch (with projects), I have shared a free guidebook in the replies.
+
+<img width="763" height="655" alt="image" src="https://github.com/user-attachments/assets/f3285efb-f2dd-43e6-b05b-830b35f67d0d" />
 
 ---
 
