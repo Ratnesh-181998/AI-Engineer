@@ -406,6 +406,27 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 
 ---
 
+# LLM fine-tuning techniques I'd learn if I were to customize them:
+- 1. LoRA
+- 2. QLoRA
+- 3. Prefix Tuning
+- 4. Adapter Tuning
+- 5. Instruction Tuning
+- 6. P-Tuning
+- 7. BitFit
+= 8. Soft Prompts
+- 9. RLHF
+- 10. RLAIF
+- 11. DPO (Direct Preference Optimization)
+- 12. GRPO (Group Relative Policy Optimization)
+- 13. RLAIF (RL with AI Feedback)
+- 14. Multi-Task Fine-Tuning
+- 15. Federated Fine-Tuning
+      
+<img width="776" height="695" alt="image" src="https://github.com/user-attachments/assets/708a5399-3dfc-4113-ac5b-058223cd830a" />
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
