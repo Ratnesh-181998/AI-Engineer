@@ -429,6 +429,36 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 
 ---
 
+# LLMs hallucinate
+
+<img width="506" height="749" alt="image" src="https://github.com/user-attachments/assets/8872fda0-da57-40e7-a00a-e61e0ec774f7" />
+<img width="497" height="425" alt="image" src="https://github.com/user-attachments/assets/2ee7af18-690b-4dbe-9d4d-16c8f65bb972" />
+
+- https://arxiv.org/pdf/2410.14262
+- https://arxiv.org/abs/2509.18970
+- https://arxiv.org/abs/2508.01781
+- https://arxiv.org/abs/2409.05746
+- https://www.mdpi.com/2227-7390/13/5/856
+- https://arxiv.org/abs/2408.15533
+- https://arxiv.org/abs/2508.03553
+- https://openreview.net/forum?id=ztzZDzgfrh
+- https://arxiv.org/abs/2402.10612
+- https://arxiv.org/abs/2312.10997
+- https://arxiv.org/abs/2506.00054
+- https://arxiv.org/abs/2507.15903
+- https://arxiv.org/abs/2501.13946
+- https://www.mdpi.com/2078-2489/16/7/517
+- https://arxiv.org/abs/2309.11495
+- https://arxiv.org/abs/2203.11171
+- https://arxiv.org/abs/2504.09440
+- https://arxiv.org/abs/2510.11529
+- https://arxiv.org/abs/2506.17088
+- https://arxiv.org/abs/2409.11283
+- https://arxiv.org/abs/2507.22915
+- https://www.preprints.org/manuscript/202505.0456
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
