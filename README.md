@@ -463,6 +463,7 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 
 ### How SFT, RLHF, LoRA, QLoRA, and instruction tuning actually fit together LLM
 
+<img width="309" height="581" alt="image" src="https://github.com/user-attachments/assets/54b4eaa1-2fa0-488e-8605-00c51ea47eed" />
 <img width="787" height="496" alt="image" src="https://github.com/user-attachments/assets/2a298d8a-67f7-4e31-a3c2-300b29dd7cf0" />
 <img width="532" height="560" alt="image" src="https://github.com/user-attachments/assets/3100f668-0dd6-4aa4-a958-85195e5c6e74" />
 <img width="530" height="679" alt="image" src="https://github.com/user-attachments/assets/001deba1-83ca-4c8f-9195-a312f551a970" />
