@@ -481,6 +481,16 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 <img width="501" height="397" alt="image" src="https://github.com/user-attachments/assets/6072c6dc-9c31-43bf-9009-71587636f935" />
 <img width="529" height="520" alt="image" src="https://github.com/user-attachments/assets/9ba8fc10-37db-4a52-8f58-366c4c6145d5" />
 
+---
+
+# AI Engineering
+
+<img width="303" height="737" alt="image" src="https://github.com/user-attachments/assets/5a4f9a5f-d45e-4b64-8dbc-3a3415137c44" />
+<img width="662" height="551" alt="image" src="https://github.com/user-attachments/assets/1dabee3c-f0a9-4772-8c9a-9d5fc67b379d" />
+<img width="571" height="686" alt="image" src="https://github.com/user-attachments/assets/4bf9d594-01ad-472e-98a6-f8237c5c78c2" />
+<img width="574" height="749" alt="image" src="https://github.com/user-attachments/assets/5cf1df00-5d81-442e-812f-8c7f06e2e641" />
+<img width="558" height="703" alt="image" src="https://github.com/user-attachments/assets/ceb096fe-4c83-4a19-8bc3-d71cf61bce87" />
+<img width="520" height="651" alt="image" src="https://github.com/user-attachments/assets/4d460bf0-95ed-4729-b404-fef2bc795abf" />
 
 ---
 
