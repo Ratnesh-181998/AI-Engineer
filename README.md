@@ -459,6 +459,30 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 
 ---
 
+# Fine-Tuning LLMs Without the Confusion
+
+### How SFT, RLHF, LoRA, QLoRA, and instruction tuning actually fit together LLM
+
+<img width="787" height="496" alt="image" src="https://github.com/user-attachments/assets/2a298d8a-67f7-4e31-a3c2-300b29dd7cf0" />
+<img width="532" height="560" alt="image" src="https://github.com/user-attachments/assets/3100f668-0dd6-4aa4-a958-85195e5c6e74" />
+<img width="530" height="679" alt="image" src="https://github.com/user-attachments/assets/001deba1-83ca-4c8f-9195-a312f551a970" />
+<img width="521" height="613" alt="image" src="https://github.com/user-attachments/assets/e21b9fc2-de41-45ef-bd37-755a23713489" />
+<img width="526" height="568" alt="image" src="https://github.com/user-attachments/assets/02f41f50-6679-469c-bfc5-5a5ad409c216" />
+<img width="509" height="634" alt="image" src="https://github.com/user-attachments/assets/6ee21d91-3a53-4b12-a4a5-25a518e4ea8c" />
+<img width="508" height="551" alt="image" src="https://github.com/user-attachments/assets/315db63d-de23-40d7-bad1-f10e590cfcd1" />
+<img width="518" height="617" alt="image" src="https://github.com/user-attachments/assets/ea94b763-333c-4cc1-b6fc-8cff588cd2e0" />
+<img width="525" height="520" alt="image" src="https://github.com/user-attachments/assets/3f0ce8a9-68b4-497c-b20f-79acbd53b106" />
+<img width="542" height="514" alt="image" src="https://github.com/user-attachments/assets/99787f8c-a555-4f0c-865c-a06ec17a598b" />
+<img width="548" height="471" alt="image" src="https://github.com/user-attachments/assets/7889e701-bf97-4fb3-a31a-97739b9a030b" />
+<img width="526" height="558" alt="image" src="https://github.com/user-attachments/assets/307a4794-2d91-46da-9c6b-73c76c92c9ce" />
+<img width="493" height="379" alt="image" src="https://github.com/user-attachments/assets/4cda546a-043d-4001-ab0d-b3f55aaf2b07" />
+<img width="538" height="555" alt="image" src="https://github.com/user-attachments/assets/2367c891-6616-4b92-b374-32b9f3d3ff74" />
+<img width="501" height="397" alt="image" src="https://github.com/user-attachments/assets/6072c6dc-9c31-43bf-9009-71587636f935" />
+<img width="529" height="520" alt="image" src="https://github.com/user-attachments/assets/9ba8fc10-37db-4a52-8f58-366c4c6145d5" />
+
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
