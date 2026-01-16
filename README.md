@@ -500,6 +500,12 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 <img width="409" height="686" alt="image" src="https://github.com/user-attachments/assets/ff81b73c-7961-47c9-8d77-ddd308e196fb" />
 <img width="669" height="816" alt="image" src="https://github.com/user-attachments/assets/888b3ea6-5617-4314-87f6-18cf38ef8bcf" />
 
+---
+
+# 12 Essential Generative AI Concepts 
+
+<img width="386" height="740" alt="image" src="https://github.com/user-attachments/assets/56a981c2-e68b-4c08-b52e-bcff041c1238" />
+<img width="823" height="639" alt="image" src="https://github.com/user-attachments/assets/9ee57745-a44b-4e59-8c9f-6a3dfe1801d5" />
 
 
 ---
