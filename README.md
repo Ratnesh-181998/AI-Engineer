@@ -511,13 +511,11 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 
 # AI Algorithms
 
-<img width="540" height="701" alt="image" src="https://github.com/user-attachments/assets/05ed8011-6880-464c-a35c-1f495409de59" />
+<img width="450" height="596" alt="image" src="https://github.com/user-attachments/assets/83ff4dad-5b6b-48d2-b4ed-43526baa8d96" />
 <img width="423" height="623" alt="image" src="https://github.com/user-attachments/assets/6467b45e-919a-4c97-942a-1b61faf45d60" />
 <img width="550" height="748" alt="image" src="https://github.com/user-attachments/assets/78507db2-2fa9-4454-9aea-ab7858c4d606" />
 <img width="394" height="201" alt="image" src="https://github.com/user-attachments/assets/edeb3f6a-fbd8-453c-8064-6263b52dd36a" />
-
-<img width="450" height="596" alt="image" src="https://github.com/user-attachments/assets/83ff4dad-5b6b-48d2-b4ed-43526baa8d96" />
-
+<img width="540" height="701" alt="image" src="https://github.com/user-attachments/assets/05ed8011-6880-464c-a35c-1f495409de59" />
 
 ---
 
