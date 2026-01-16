@@ -492,6 +492,16 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 <img width="558" height="703" alt="image" src="https://github.com/user-attachments/assets/ceb096fe-4c83-4a19-8bc3-d71cf61bce87" />
 <img width="520" height="651" alt="image" src="https://github.com/user-attachments/assets/4d460bf0-95ed-4729-b404-fef2bc795abf" />
 
+
+---
+
+# Claude Code 3-Phase strategy:
+
+<img width="409" height="686" alt="image" src="https://github.com/user-attachments/assets/ff81b73c-7961-47c9-8d77-ddd308e196fb" />
+<img width="669" height="816" alt="image" src="https://github.com/user-attachments/assets/888b3ea6-5617-4314-87f6-18cf38ef8bcf" />
+
+
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
