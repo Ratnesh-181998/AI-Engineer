@@ -519,6 +519,13 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 
 ---
 
+# API Concepts
+
+<img width="602" height="759" alt="image" src="https://github.com/user-attachments/assets/e307810e-7b99-4fbd-b41c-7d4b1227201a" />
+
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
