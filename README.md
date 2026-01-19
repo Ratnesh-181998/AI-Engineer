@@ -523,6 +523,12 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 
 <img width="602" height="759" alt="image" src="https://github.com/user-attachments/assets/e307810e-7b99-4fbd-b41c-7d4b1227201a" />
 
+---
+
+# Unpacking the LangChain Ecosystem
+
+<img width="403" height="516" alt="image" src="https://github.com/user-attachments/assets/5fad58bf-2850-4ec4-a8bf-f71e03d86a49" />
+<img width="541" height="715" alt="image" src="https://github.com/user-attachments/assets/feb7ab3f-068c-4076-9720-aaf344df9c42" />
 
 ---
 
