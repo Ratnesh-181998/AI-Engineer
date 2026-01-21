@@ -532,6 +532,24 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 
 ---
 
+# 𝐑𝐞𝐀𝐜𝐭: 𝐂𝐨𝐦𝐛𝐢𝐧𝐢𝐧𝐠 𝐑𝐞𝐚𝐬𝐨𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐀𝐜𝐭𝐢𝐧𝐠 𝐢𝐧 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬
+
+### Cornell University
+
+- https://arxiv.org/abs/2210.03629
+- https://react-lm.github.io/
+<img width="637" height="724" alt="image" src="https://github.com/user-attachments/assets/2bb81378-729d-4002-971d-8344aac59d46" />
+<img width="573" height="549" alt="image" src="https://github.com/user-attachments/assets/52018c22-cd62-4118-a488-5056d07261e1" />
+<img width="1622" height="755" alt="image" src="https://github.com/user-attachments/assets/f49730eb-a035-49cd-a364-ce0b1f622402" />
+<img width="1557" height="800" alt="image" src="https://github.com/user-attachments/assets/3f0dafa5-1dc3-4267-8a20-adb99138f802" />
+<img width="1659" height="802" alt="image" src="https://github.com/user-attachments/assets/c191c488-e1f7-4b6b-b122-70bc1578e754" />
+<img width="1480" height="744" alt="image" src="https://github.com/user-attachments/assets/9f5bab54-41b9-4a3a-8d99-30c30919af4c" />
+<img width="1441" height="715" alt="image" src="https://github.com/user-attachments/assets/a927da8d-f2f3-4500-8239-1f5080143e17" />
+<img width="1486" height="708" alt="image" src="https://github.com/user-attachments/assets/aaddea3b-d0c6-45c2-88e8-58e149538bf6" />
+
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
