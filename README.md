@@ -547,6 +547,23 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 <img width="1441" height="715" alt="image" src="https://github.com/user-attachments/assets/a927da8d-f2f3-4500-8239-1f5080143e17" />
 <img width="1486" height="708" alt="image" src="https://github.com/user-attachments/assets/aaddea3b-d0c6-45c2-88e8-58e149538bf6" />
 
+---
+
+# 𝐓𝐡𝐞 𝐇𝐢𝐝𝐝𝐞𝐧 𝐏𝐨𝐰𝐞𝐫 𝐁𝐞𝐡𝐢𝐧𝐝 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭𝐬: 𝐌𝐞𝐦𝐨𝐫𝐲 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞𝐬 𝐔𝐧𝐯𝐞𝐢𝐥𝐞𝐝
+
+<img width="408" height="564" alt="image" src="https://github.com/user-attachments/assets/3b716738-4ca2-428f-8af9-3be5601e5a04" />
+<img width="741" height="749" alt="image" src="https://github.com/user-attachments/assets/f97884d3-ec88-45c9-9390-71d41181baf5" />
+
+---
+
+# The role of Reinforcement Learning (RL) 🚀
+<img width="346" height="326" alt="image" src="https://github.com/user-attachments/assets/8acbd862-2c83-408e-b59b-0d01755974aa" />
+<img width="618" height="845" alt="image" src="https://github.com/user-attachments/assets/5daa222e-ddcb-41a5-8da9-551efe9c0f01" />
+<img width="505" height="563" alt="image" src="https://github.com/user-attachments/assets/bb2f1505-ab2b-4ed2-be39-f4a2a602c709" />
+<img width="493" height="430" alt="image" src="https://github.com/user-attachments/assets/dd1ab5e8-b849-46b1-bff7-7099ce5a7f8a" />
+<img width="493" height="506" alt="image" src="https://github.com/user-attachments/assets/44fc97cf-1da2-42d6-9d94-94e5434cfe40" />
+<img width="488" height="682" alt="image" src="https://github.com/user-attachments/assets/184b4c1c-0b4f-45a5-8947-2aa459c9cb69" />
+
 
 ---
 
