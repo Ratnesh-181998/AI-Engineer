@@ -556,7 +556,9 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 
 ---
 
-# The role of Reinforcement Learning (RL) 🚀
+# The role of Reinforcement Learning (RL)
+- [Reinforcement Learning ](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/Reinforcement%20Learning%20(RL)%20is%20a%20type%20of%20machine%20Learning.pdf)
+  
 <img width="346" height="326" alt="image" src="https://github.com/user-attachments/assets/8acbd862-2c83-408e-b59b-0d01755974aa" />
 <img width="618" height="845" alt="image" src="https://github.com/user-attachments/assets/5daa222e-ddcb-41a5-8da9-551efe9c0f01" />
 <img width="505" height="563" alt="image" src="https://github.com/user-attachments/assets/bb2f1505-ab2b-4ed2-be39-f4a2a602c709" />
