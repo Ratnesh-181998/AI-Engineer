@@ -574,6 +574,13 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 
 <img width="648" height="576" alt="image" src="https://github.com/user-attachments/assets/0eca7ce5-2e41-4596-ac2e-6943a7aa308f" />
 
+---
+
+# LangChain Components — understanding the engineering behind LLM systems
+
+- [LangChain Components](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/LangChain%20Components.pdf)
+  
+<img width="607" height="660" alt="image" src="https://github.com/user-attachments/assets/b0ca2ddf-0c20-4dad-981b-ecdb2c91e1a6" />
 
 ---
 
