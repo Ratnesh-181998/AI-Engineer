@@ -571,7 +571,7 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 # Reasoning Models Generate Societies of Thought
 
 <img width="648" height="576" alt="image" src="https://github.com/user-attachments/assets/0eca7ce5-2e41-4596-ac2e-6943a7aa308f" />
-[Reasoning in LLMs](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/Reasoning%20Models%20Generate%20Societies%20of%20Thought.pdf)
+- [Reasoning in LLMs](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/Reasoning%20Models%20Generate%20Societies%20of%20Thought.pdf)
 
 ---
 
