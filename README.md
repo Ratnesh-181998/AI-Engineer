@@ -584,6 +584,13 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 
 ---
 
+# The Smol Training Playbook
+-  [Training LLMs](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/Training%20LLMs.pdf)
+<img width="399" height="604" alt="image" src="https://github.com/user-attachments/assets/c33cadcd-2ba9-4a75-ae73-ef3d8cc9817d" />
+
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
