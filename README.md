@@ -574,6 +574,41 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 
 <img width="648" height="576" alt="image" src="https://github.com/user-attachments/assets/0eca7ce5-2e41-4596-ac2e-6943a7aa308f" />
 
+
+---
+
+# 𝗔𝗻 𝗜𝗻-𝗗𝗲𝗽𝘁𝗵 𝗦𝘁𝘂𝗱𝘆 𝗼𝗳 𝗚𝗿𝗮𝗱𝗶𝗲𝗻𝘁 𝗕𝗼𝗼𝘀𝘁𝗶𝗻𝗴 
+
+- Gradient Boosting is a powerful ensemble learning technique used for both 𝗰𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗿𝗲𝗴𝗿𝗲𝘀𝘀𝗶𝗼𝗻 𝘁𝗮𝘀𝗸𝘀. It builds models sequentially, 𝘄𝗵𝗲𝗿𝗲 𝗲𝗮𝗰𝗵 𝗻𝗲𝘄 𝗺𝗼𝗱𝗲𝗹 𝗮𝘁𝘁𝗲𝗺𝗽𝘁𝘀 𝘁𝗼 𝗰𝗼𝗿𝗿𝗲𝗰𝘁 𝘁𝗵𝗲 𝗲𝗿𝗿𝗼𝗿𝘀 𝗺𝗮𝗱𝗲 𝗯𝘆 𝘁𝗵𝗲 𝗰𝗼𝗺𝗯𝗶𝗻𝗲𝗱 𝗲𝗻𝘀𝗲𝗺𝗯𝗹𝗲 𝗼𝗳 𝗽𝗿𝗲𝘃𝗶𝗼𝘂𝘀 models. Unlike AdaBoost, which adjusts sample weights explicitly, 𝗚𝗿𝗮𝗱𝗶𝗲𝗻𝘁 𝗕𝗼𝗼𝘀𝘁𝗶𝗻𝗴 𝗼𝗽𝘁𝗶𝗺𝗶𝘇𝗲𝘀 𝗮 𝘀𝗽𝗲𝗰𝗶𝗳𝗶𝗲𝗱 𝗹𝗼𝘀𝘀 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻 𝘂𝘀𝗶𝗻𝗴 𝗴𝗿𝗮𝗱𝗶𝗲𝗻𝘁 𝗱𝗲𝘀𝗰𝗲𝗻𝘁 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲𝘀.
+
+- The core idea of Gradient Boosting is to construct an additive model of weak learners, usually shallow decision trees. Let the model prediction after t iterations be denoted as ŷₜ(x). The model is updated iteratively as: ŷₜ(𝘅) = ŷₜ₋₁(𝘅) + η 𝗵ₜ(𝘅)
+
+- where hₜ(x) is the new weak learner added at iteration t, and η is the learning rate that controls the contribution of each learner.
+
+- At each iteration, Gradient Boosting fits a new model to the negative gradient of the loss function with respect to the current predictions. For a given loss function L(y, ŷ), the residuals are computed as: 𝗿ᵢₜ = − ∂𝗟(𝘆ᵢ, ŷᵢ) / ∂ŷᵢ
+
+- 𝗧𝗵𝗲𝘀𝗲 𝗿𝗲𝘀𝗶𝗱𝘂𝗮𝗹𝘀 𝗿𝗲𝗽𝗿𝗲𝘀𝗲𝗻𝘁 𝘁𝗵𝗲 𝗱𝗶𝗿𝗲𝗰𝘁𝗶𝗼𝗻 𝗶𝗻 𝘄𝗵𝗶𝗰𝗵 𝘁𝗵𝗲 𝗺𝗼𝗱𝗲𝗹 𝗻𝗲𝗲𝗱𝘀 𝘁𝗼 𝗮𝗱𝗷𝘂𝘀𝘁 𝗶𝘁𝘀 𝗽𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻𝘀 𝘁𝗼 𝗿𝗲𝗱𝘂𝗰𝗲 𝗲𝗿𝗿𝗼𝗿. The weak learner hₜ(x) is trained to predict these residuals rather than the original target values.
+- For example, in regression with squared error loss: 𝗟(𝘆, ŷ) = ½ (𝘆 − ŷ)²
+
+- the negative gradient simplifies to: 𝗿ᵢₜ = 𝘆ᵢ − ŷᵢ
+
+- which are simply the 𝗿𝗲𝘀𝗶𝗱𝘂𝗮𝗹 𝗲𝗿𝗿𝗼𝗿𝘀.
+
+- Once the weak learner is trained, its predictions are scaled by the 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗿𝗮𝘁𝗲 and added to the existing model. This process is repeated for a fixed number of iterations or until convergence.
+
+- Gradient Boosting offers high flexibility, as it allows the choice of different loss functions, such as 𝗹𝗼𝗴𝗶𝘀𝘁𝗶𝗰 𝗹𝗼𝘀𝘀 𝗳𝗼𝗿 𝗰𝗹𝗮𝘀𝘀𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗛𝘂𝗯𝗲𝗿 𝗹𝗼𝘀𝘀 𝗳𝗼𝗿 𝗿𝗼𝗯𝘂𝘀𝘁𝗻𝗲𝘀𝘀. However, it is sensitive to overfitting and requires careful tuning of hyperparameters like learning rate, tree depth, and number of estimators.
+
+- Despite its complexity, Gradient Boosting remains one of the most effective algorithms for structured data problems and forms the foundation of advanced methods such as XGBoost and LightGBM.
+
+---
+
+# Bias–Variance Tradeoff 
+
+<img width="412" height="723" alt="image" src="https://github.com/user-attachments/assets/9a01738f-8d41-4e42-aed3-eb8933e3f8eb" />
+
+<img width="875" height="483" alt="image" src="https://github.com/user-attachments/assets/1a17665f-3ca7-4ea8-9f0a-7233900de0f0" />
+
+
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
