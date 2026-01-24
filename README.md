@@ -588,6 +588,13 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 -  [Training LLMs](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/Training%20LLMs.pdf)
 <img width="399" height="604" alt="image" src="https://github.com/user-attachments/assets/c33cadcd-2ba9-4a75-ae73-ef3d8cc9817d" />
 
+---
+
+# Small Language Models for AI Agents
+
+## [Small Language Models for AI Agents](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/Small%20Language%20Models%20for%20AI%20Agents.pdf)
+<img width="714" height="409" alt="image" src="https://github.com/user-attachments/assets/07dabce0-626a-406a-a4e9-9f8cd2112b01" />
+
 
 ---
 
