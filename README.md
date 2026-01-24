@@ -595,6 +595,14 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 ## [Small Language Models for AI Agents](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/Small%20Language%20Models%20for%20AI%20Agents.pdf)
 <img width="714" height="409" alt="image" src="https://github.com/user-attachments/assets/07dabce0-626a-406a-a4e9-9f8cd2112b01" />
 
+---
+
+# LLM Fine Tuningb Engineer Interview Questions and Answers
+
+## [LLM Fine Tuningb Engineer Interview Questions and Answers](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/LLM%20Fine%20Tuningb%20Engineer%20Interview%20Questions%20and%20Answers.pdf)
+
+<img width="412" height="566" alt="image" src="https://github.com/user-attachments/assets/32a20597-b486-48bd-a0a8-1df47e13ea24" />
+
 
 ---
 
