@@ -603,6 +603,17 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 
 <img width="412" height="566" alt="image" src="https://github.com/user-attachments/assets/32a20597-b486-48bd-a0a8-1df47e13ea24" />
 
+---
+
+# RAG Meets LLMs
+
+## [RAG is becoming essential for enterprise GenAI](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/RAG%20Meets%20LLMs.pdf)
+
+<img width="811" height="752" alt="image" src="https://github.com/user-attachments/assets/7f14013b-e908-4dce-8693-2d63487f5ca3" />
+
+
+
+
 
 ---
 
