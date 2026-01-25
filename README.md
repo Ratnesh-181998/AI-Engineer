@@ -622,6 +622,16 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 
 <img width="551" height="761" alt="image" src="https://github.com/user-attachments/assets/2026a2b2-6acb-4595-b770-3d67f588b9bd" />
 
+---
+
+# AI Agents Cheatsheet 
+
+<img width="734" height="671" alt="image" src="https://github.com/user-attachments/assets/cb1fc66b-834f-46e1-bee2-9bec625f2e1c" />
+<img width="705" height="680" alt="image" src="https://github.com/user-attachments/assets/c7c086b6-a142-436f-9f5a-c50a1d023897" />
+<img width="745" height="685" alt="image" src="https://github.com/user-attachments/assets/f7831360-9f8c-4140-b5ab-46d138d68aab" />
+
+<img width="548" height="817" alt="image" src="https://github.com/user-attachments/assets/bfb865cd-5d36-475c-a49d-a102509e4792" />
+
 
 ---
 
