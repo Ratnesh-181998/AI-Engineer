@@ -632,6 +632,14 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 
 <img width="548" height="817" alt="image" src="https://github.com/user-attachments/assets/bfb865cd-5d36-475c-a49d-a102509e4792" />
 
+---
+
+# Build DeepSeek from Scratch 
+
+## [YouTube Playlist Link:](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSiOpKKlHCyOq9lnp-dLvlms)
+
+<img width="728" height="482" alt="image" src="https://github.com/user-attachments/assets/438aaa3b-4c96-4121-ba12-accb646c51fa" />
+<img width="468" height="837" alt="image" src="https://github.com/user-attachments/assets/15d828ec-f056-497d-94b4-04871d133a5f" />
 
 ---
 
