@@ -614,6 +614,14 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 
 
 
+---
+
+# 🔧 Mastering System Design: Essential Components for Success 🔧
+
+<img width="810" height="643" alt="image" src="https://github.com/user-attachments/assets/ec761a03-b200-46cb-8709-4a66f73e85b7" />
+
+<img width="551" height="761" alt="image" src="https://github.com/user-attachments/assets/2026a2b2-6acb-4595-b770-3d67f588b9bd" />
+
 
 ---
 
