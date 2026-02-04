@@ -650,6 +650,14 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 <img width="741" height="509" alt="image" src="https://github.com/user-attachments/assets/49479c26-5b86-4c0e-bcc9-e5521456620a" />
 <img width="969" height="376" alt="image" src="https://github.com/user-attachments/assets/bbaead07-96ca-4b19-bab9-dc5ac6acd378" />
 
+---
+
+# Build AI Agents with LLMs, RAG & Knowledge Graphs
+
+## [Complete guide to building production-ready AI agents - systems that perceive, reason, and take autonomous action beyond simple chat](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/Build%20AI%20Agents%20with%20LLMs%2C%20RAG%20%26%20Knowledge%20Graphs.pdf)
+
+<img width="374" height="704" alt="image" src="https://github.com/user-attachments/assets/ea817f30-5a1d-4ff2-aef6-dd3451ba0be4" />
+<img width="410" height="610" alt="image" src="https://github.com/user-attachments/assets/f31d6838-a867-4018-8b47-2fe8d917f29b" />
 
 ---
 
