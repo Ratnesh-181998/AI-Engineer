@@ -685,6 +685,13 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 <img width="756" height="1223" alt="image" src="https://github.com/user-attachments/assets/d2185ff5-6baf-4af4-9762-0dd1cb421c70" />
 <img width="754" height="1161" alt="image" src="https://github.com/user-attachments/assets/aed97790-d3aa-4864-accb-64942498ab86" />
 
+---
+
+# Enterprise AI Agent System Architecture
+
+<img width="818" height="1315" alt="image" src="https://github.com/user-attachments/assets/fbf73eb2-8b8c-4fec-91a8-91db9ee94b5f" />
+<img width="1093" height="678" alt="image" src="https://github.com/user-attachments/assets/39c5078d-0a65-488f-b307-e06dc08b1f29" />
+
 
 ---
 
