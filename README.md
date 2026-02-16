@@ -659,7 +659,27 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 <img width="374" height="704" alt="image" src="https://github.com/user-attachments/assets/ea817f30-5a1d-4ff2-aef6-dd3451ba0be4" />
 <img width="410" height="610" alt="image" src="https://github.com/user-attachments/assets/f31d6838-a867-4018-8b47-2fe8d917f29b" />
 
+
 ---
+
+# 🚀 LLM Architectures 
+
+<img width="822" height="926" alt="image" src="https://github.com/user-attachments/assets/8f62ec6a-a18a-466c-9c3f-da99e49e852f" />
+
+<img width="1308" height="672" alt="image" src="https://github.com/user-attachments/assets/9d3e9af4-3d36-4b6d-bc6b-179a374953ea" />
+
+---
+
+# Learn Retrieval-Augmented Generation (RAG) from Scratch – Complete Video Series by LangChain
+
+- [Watch the full playlist here:](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
+<img width="976" height="710" alt="image" src="https://github.com/user-attachments/assets/abd5dd1c-f6cd-475c-85db-b000f62e8ffc" />
+<img width="644" height="1139" alt="image" src="https://github.com/user-attachments/assets/df389fe3-f034-4b7c-9d1d-55b2997b75c7" />
+<img width="646" height="1139" alt="image" src="https://github.com/user-attachments/assets/90d1a827-85a9-4719-8e88-88f89b8c1631" />
+
+
+---
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
