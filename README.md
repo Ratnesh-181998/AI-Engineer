@@ -677,6 +677,14 @@ Instead, they communicate by exchanging context, task updates, instructions, and
 <img width="644" height="1139" alt="image" src="https://github.com/user-attachments/assets/df389fe3-f034-4b7c-9d1d-55b2997b75c7" />
 <img width="646" height="1139" alt="image" src="https://github.com/user-attachments/assets/90d1a827-85a9-4719-8e88-88f89b8c1631" />
 
+---
+
+# 🚀 Fine-Tuning Large Language Models for Domain-Specific Tasks
+Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
+
+<img width="756" height="1223" alt="image" src="https://github.com/user-attachments/assets/d2185ff5-6baf-4af4-9762-0dd1cb421c70" />
+<img width="754" height="1161" alt="image" src="https://github.com/user-attachments/assets/aed97790-d3aa-4864-accb-64942498ab86" />
+
 
 ---
 
