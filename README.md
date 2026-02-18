@@ -695,6 +695,14 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 ---
 
+# 4 indexing strategies that separate good RAG from great RAG:
+
+<img width="399" height="577" alt="image" src="https://github.com/user-attachments/assets/e60bcf4e-846d-4771-9eb9-63fbf9f558a6" />
+<img width="512" height="474" alt="image" src="https://github.com/user-attachments/assets/7e55d134-6065-47f7-a4a0-ef7da4e5477a" />
+
+
+---
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
