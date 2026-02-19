@@ -736,6 +736,14 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 <img width="524" height="630" alt="image" src="https://github.com/user-attachments/assets/ce1e70c3-c37d-4ee2-b7f4-004063414c02" />
 
 
+---
+
+# Prompt Repetition Improves Non-Reasoning LLMs
+
+## [Duplicate your prompt!](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/Prompt%20Repetition%20Improves%20Non-Reasoning%20LLMs.pdf)
+
+<img width="534" height="561" alt="image" src="https://github.com/user-attachments/assets/0f3866e0-ec64-458a-bde4-9c7bc3038753" />
+
 
 ---
 
