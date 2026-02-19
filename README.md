@@ -713,6 +713,15 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 ---
 
+# LLM APIs and only tweaking temperature
+## [LLM APIs]()
+
+<img width="723" height="615" alt="image" src="https://github.com/user-attachments/assets/765f3388-e8c1-426c-8630-a4d3e9b9c2f4" />
+
+
+
+---
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
