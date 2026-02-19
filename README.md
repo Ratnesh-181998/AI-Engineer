@@ -771,6 +771,13 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 ---
 
+# [15 STRATEGIES TO REDUCE LLM COSTS](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/15%20STRATEGIES%20TO%20REDUCE%20LLM%20COSTS.pdf)
+
+<img width="1114" height="794" alt="image" src="https://github.com/user-attachments/assets/8dfa4cb3-2b36-44bc-b395-c37bd502edab" />
+
+
+---
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
