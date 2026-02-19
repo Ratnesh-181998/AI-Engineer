@@ -703,6 +703,16 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 ---
 
+# Components of AI agents
+
+## [Weaviate cheat sheet  AI engineering roadmaps ](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/Components%20of%20AI%20agents.pdf)
+
+<img width="949" height="1278" alt="image" src="https://github.com/user-attachments/assets/52d13732-8ca9-4980-876b-41af8db1ff06" />
+<img width="958" height="1117" alt="image" src="https://github.com/user-attachments/assets/14ab7805-0d4e-4ebc-9de0-f52cb1dd4c5e" />
+
+
+---
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
