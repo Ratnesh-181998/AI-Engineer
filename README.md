@@ -714,7 +714,7 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 ---
 
 # LLM APIs and only tweaking temperature
-## [LLM APIs]()
+## [LLM APIs](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/TOP%209%20LLM%20API%20PARAMETERS.pdf)
 
 <img width="723" height="615" alt="image" src="https://github.com/user-attachments/assets/765f3388-e8c1-426c-8630-a4d3e9b9c2f4" />
 
