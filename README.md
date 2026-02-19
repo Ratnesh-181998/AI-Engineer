@@ -753,6 +753,14 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 <img width="858" height="1235" alt="image" src="https://github.com/user-attachments/assets/d7162f08-5b02-4628-9cd7-b00e1a1d1f45" />
 
+---
+
+# 30 Claude prompts that 2X output quality
+
+<img width="1080" height="1304" alt="image" src="https://github.com/user-attachments/assets/240714c5-5d77-4a31-8720-a3cf53c4b261" />
+<img width="875" height="1274" alt="image" src="https://github.com/user-attachments/assets/1b3854d4-018d-41db-aa9d-f042da843ba3" />
+<img width="939" height="1110" alt="image" src="https://github.com/user-attachments/assets/29d16905-70fc-4f7e-8ddf-2b21575b3243" />
+
 
 ---
 
