@@ -719,6 +719,14 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 <img width="723" height="615" alt="image" src="https://github.com/user-attachments/assets/765f3388-e8c1-426c-8630-a4d3e9b9c2f4" />
 
 
+---
+
+# Hyperparameter Cheat Sheet
+
+<img width="406" height="597" alt="image" src="https://github.com/user-attachments/assets/434f035c-dd64-4c6f-b80a-ad577b7692d2" />
+<img width="493" height="663" alt="image" src="https://github.com/user-attachments/assets/90743855-6bb4-42cc-a9e9-96e3f7c48a91" />
+
+
 
 ---
 
