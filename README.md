@@ -727,6 +727,15 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 <img width="493" height="663" alt="image" src="https://github.com/user-attachments/assets/90743855-6bb4-42cc-a9e9-96e3f7c48a91" />
 
 
+---
+
+# 6 Artifacts separate a $80k dev from a $300k architect
+
+## [Build all 6. You're hireable. Period.](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/AI%20SYSTEMS%20ARCHITECT%20Complete%20Roadmap.pdf)
+
+<img width="524" height="630" alt="image" src="https://github.com/user-attachments/assets/ce1e70c3-c37d-4ee2-b7f4-004063414c02" />
+
+
 
 ---
 
