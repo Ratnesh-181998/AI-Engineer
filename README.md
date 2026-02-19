@@ -747,6 +747,15 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 ---
 
+#  20 Essential LLM guardrails
+
+## [LLM guardrails](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/20%20Essential%20LLM%20guardrails.pdf)
+
+<img width="858" height="1235" alt="image" src="https://github.com/user-attachments/assets/d7162f08-5b02-4628-9cd7-b00e1a1d1f45" />
+
+
+---
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
