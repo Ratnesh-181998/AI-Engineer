@@ -761,6 +761,13 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 <img width="875" height="1274" alt="image" src="https://github.com/user-attachments/assets/1b3854d4-018d-41db-aa9d-f042da843ba3" />
 <img width="939" height="1110" alt="image" src="https://github.com/user-attachments/assets/29d16905-70fc-4f7e-8ddf-2b21575b3243" />
 
+---
+
+# 97% of AI security is architecture.
+
+<img width="792" height="994" alt="image" src="https://github.com/user-attachments/assets/118f4e4c-c0ba-407f-a49e-98220f408f3c" />
+<img width="540" height="802" alt="image" src="https://github.com/user-attachments/assets/3989d647-85ee-4e47-86b8-eef092a2ed5a" />
+
 
 ---
 
