@@ -775,6 +775,16 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 <img width="1114" height="794" alt="image" src="https://github.com/user-attachments/assets/8dfa4cb3-2b36-44bc-b395-c37bd502edab" />
 
+---
+
+# Claude Code is not another AI assistant.
+
+## [Claude](https://code.claude.com/docs)
+
+<img width="530" height="632" alt="image" src="https://github.com/user-attachments/assets/9d0df1a0-f7eb-4ffe-ad8e-03c85f634d63" />
+
+<img width="663" height="809" alt="image" src="https://github.com/user-attachments/assets/89ef0333-92f4-4b97-90d0-faa8cc7ecc73" />
+
 
 ---
 
