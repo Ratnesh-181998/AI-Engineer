@@ -792,6 +792,14 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 <img width="816" height="478" alt="image" src="https://github.com/user-attachments/assets/1788859b-8416-4660-8d57-f1dd6f63118a" />
 
+---
+
+# Speech-to-Text Model
+
+<img width="593" height="535" alt="image" src="https://github.com/user-attachments/assets/ce116057-af7a-483c-852d-881e53e725df" />
+<img width="980" height="515" alt="image" src="https://github.com/user-attachments/assets/3dc952e8-98d1-41f3-abc6-7239e1a302aa" />
+<img width="960" height="519" alt="image" src="https://github.com/user-attachments/assets/f48df261-27a5-4beb-b17c-7d682240d858" />
+
 
 ---
 
