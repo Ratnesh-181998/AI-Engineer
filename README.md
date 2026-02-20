@@ -785,6 +785,13 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 <img width="663" height="809" alt="image" src="https://github.com/user-attachments/assets/89ef0333-92f4-4b97-90d0-faa8cc7ecc73" />
 
+---
+
+# AIGUARDRAILS
+## [AIGOVERNANCE](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/Al%20Governance%20Framework%20for%20India%202025-26.pdf)
+
+<img width="816" height="478" alt="image" src="https://github.com/user-attachments/assets/1788859b-8416-4660-8d57-f1dd6f63118a" />
+
 
 ---
 
