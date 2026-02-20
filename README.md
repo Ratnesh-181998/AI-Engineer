@@ -801,6 +801,13 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 <img width="960" height="519" alt="image" src="https://github.com/user-attachments/assets/f48df261-27a5-4beb-b17c-7d682240d858" />
 
 
+
+---
+
+# [AI Engineer interview, you cannot ignore RAG (Retrieval-Augmented Generation).]()
+
+<img width="1089" height="1221" alt="image" src="https://github.com/user-attachments/assets/f3c5aab9-3654-4dd2-b6d8-0d42d839b78e" />
+
 ---
 
 
