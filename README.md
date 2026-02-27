@@ -818,6 +818,19 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 ---
 
+# Vectorless Tree Retrieval for RAG
+
+## [PDF → Chunk → Embed → Store → Retrieve → LLM → Answer](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/Vectorless%20Tree%20Retrieval%20for%20RAG.pdf)
+
+<img width="814" height="1307" alt="image" src="https://github.com/user-attachments/assets/3ad9590f-22a1-4ab8-a7aa-1a538512a433" />
+<img width="908" height="1265" alt="image" src="https://github.com/user-attachments/assets/48159ef6-19ec-43f6-bda0-7bbab1c619a4" />
+<img width="740" height="1276" alt="image" src="https://github.com/user-attachments/assets/2ba57629-5801-4fe2-8004-bfd2f4c92610" />
+<img width="691" height="1245" alt="image" src="https://github.com/user-attachments/assets/32849726-c8c7-49bd-bdca-ed2ce930312b" />
+<img width="752" height="1075" alt="image" src="https://github.com/user-attachments/assets/8ef61baf-9412-4fd2-8985-89696d4bf905" />
+
+
+---
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
