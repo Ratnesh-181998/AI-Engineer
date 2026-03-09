@@ -837,6 +837,15 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 ---
 
+# Agentic RAG with MCP Architecture
+
+<img width="849" height="1327" alt="image" src="https://github.com/user-attachments/assets/21bdae10-0e93-4e0b-b99b-fe4bed9a5a16" />
+<img width="927" height="1194" alt="image" src="https://github.com/user-attachments/assets/84f8e2fc-27ec-47a6-b71f-1f812d2572e0" />
+
+
+---
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
