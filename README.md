@@ -867,6 +867,7 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 - https://awesomeneuron.substack.com/p/a-visual-guide-to-agentic-rag
 - https://awesomeneuron.substack.com/p/a-visual-guide-to-ai-agents
 - https://www.youtube.com/playlist?list=PLXV9Vh2jYcjbnv67sXNDJiO8MWLA3ZJKR
+- https://www.futureofai.mit.edu/
 <img width="1413" height="1114" alt="image" src="https://github.com/user-attachments/assets/abdb6ead-5b6d-40c9-8c1a-127fe79b3607" />
 
 
