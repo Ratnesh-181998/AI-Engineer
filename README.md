@@ -926,6 +926,14 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 ---
 
+# Types of Generative AI Models
+
+<img width="1092" height="911" alt="image" src="https://github.com/user-attachments/assets/efe1c21e-86b6-498d-8005-b40bceafc191" />
+<img width="1279" height="1146" alt="image" src="https://github.com/user-attachments/assets/cbd4e4fa-d9f8-4681-8c1a-f86af4c7f8e1" />
+
+
+---
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
