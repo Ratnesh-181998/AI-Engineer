@@ -843,6 +843,33 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 <img width="927" height="1194" alt="image" src="https://github.com/user-attachments/assets/84f8e2fc-27ec-47a6-b71f-1f812d2572e0" />
 
 
+
+---
+
+# MIT literally packed 7 hours with everything:
+- You need to know about GenAI for FREE. Here's what you'll learn:
+- 💠 Stable-Diffusion & DALL·E
+- 💠 Neural Networks
+- 💠 Supervised Learning
+- 💠 Representation & Unsupervised Learning
+- 💠 Reinforcement Learning
+- 💠 Generative AI
+- 💠 Self-Supervised Learning
+- 💠 Foundation Models
+- 💠 GANs (adversarial)
+- 💠 Contrastive Learning
+- 💠 Auto-encoders
+- 💠 Denoising & Diffusion
+- https://github.com/analyticalrohit/llms-from-scratch
+- https://awesomeneuron.substack.com/p/a-visual-guide-to-llms-part-1
+- https://awesomeneuron.substack.com/p/a-visual-guide-to-ai-agents
+- https://awesomeneuron.substack.com/p/how-rag-enhances-llms-a-step-by-step
+- https://awesomeneuron.substack.com/p/a-visual-guide-to-agentic-rag
+- https://awesomeneuron.substack.com/p/a-visual-guide-to-ai-agents
+- https://www.youtube.com/playlist?list=PLXV9Vh2jYcjbnv67sXNDJiO8MWLA3ZJKR
+<img width="1413" height="1114" alt="image" src="https://github.com/user-attachments/assets/abdb6ead-5b6d-40c9-8c1a-127fe79b3607" />
+
+
 ---
 
 
