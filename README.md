@@ -886,6 +886,13 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 <img width="535" height="1158" alt="image" src="https://github.com/user-attachments/assets/8ab297ea-9151-4792-832b-c6c2c0e88ebc" />
 <img width="873" height="1098" alt="image" src="https://github.com/user-attachments/assets/68ef09a7-d04b-45a0-a96c-814ffd62d6f1" />
 
+---
+
+# 12 𝐄𝐬𝐬𝐞𝐧𝐭𝐢𝐚𝐥 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐯𝐞 𝐀𝐈 𝐂𝐨𝐧𝐜𝐞𝐩𝐭𝐬 
+
+<img width="731" height="1279" alt="image" src="https://github.com/user-attachments/assets/1724e7f8-f455-4595-bdf2-9976aef78740" />
+<img width="1159" height="920" alt="image" src="https://github.com/user-attachments/assets/d855944a-d498-44e5-bd29-32768aabe675" />
+
 
 ---
 
