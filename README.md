@@ -872,6 +872,14 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 
 ---
+ 
+# Modern AI Runs on GPUs and TPUs Instead of CPUs
+
+<img width="723" height="1201" alt="image" src="https://github.com/user-attachments/assets/4c41c68b-08cc-4f5a-ab83-5c387859ab80" />
+<img width="830" height="1181" alt="image" src="https://github.com/user-attachments/assets/fa709259-019b-4cc0-aac7-820ec51b5505" />
+
+
+---
 
 
 
