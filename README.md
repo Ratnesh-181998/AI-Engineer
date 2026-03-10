@@ -896,6 +896,29 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 ---
 
+# 14 Types of AI Hallucinations — and how to prevent them because most teams treat hallucination like a mystery
+
+<img width="810" height="1129" alt="image" src="https://github.com/user-attachments/assets/e56fafc2-9119-4e6b-a0d5-064fa52fd0de" />
+<img width="1583" height="1272" alt="image" src="https://github.com/user-attachments/assets/c5efd7fd-a274-4904-a96a-0e87fb9f482d" />
+<img width="640" height="767" alt="image" src="https://github.com/user-attachments/assets/1998778a-9b74-4463-bc1f-086aa11e9f97" />
+<img width="663" height="862" alt="image" src="https://github.com/user-attachments/assets/6520b786-0157-4192-b6fc-d3e593fe8fc2" />
+<img width="670" height="865" alt="image" src="https://github.com/user-attachments/assets/732d27a8-4926-4ab2-b557-718631c57f6b" />
+<img width="636" height="851" alt="image" src="https://github.com/user-attachments/assets/1a098178-dc9d-4007-9eac-5739ee134858" />
+<img width="632" height="862" alt="image" src="https://github.com/user-attachments/assets/5c911685-2ca1-4ec5-a839-153f17991bda" />
+<img width="684" height="854" alt="image" src="https://github.com/user-attachments/assets/6decc9e0-f499-4aaf-9010-6a000cdd6bab" />
+<img width="677" height="872" alt="image" src="https://github.com/user-attachments/assets/a74eff0f-c8c3-4a92-bc6f-24f9fe42447a" />
+<img width="686" height="807" alt="image" src="https://github.com/user-attachments/assets/96bcd2bd-d631-425f-bd17-0a012baa2cb4" />
+<img width="651" height="826" alt="image" src="https://github.com/user-attachments/assets/fe9a7077-0924-449e-9ece-66088256f3e6" />
+<img width="646" height="818" alt="image" src="https://github.com/user-attachments/assets/37c9c37c-25a6-48e6-9623-b37bf9c0bca2" />
+<img width="670" height="843" alt="image" src="https://github.com/user-attachments/assets/da67fa66-d4fa-4f83-ada3-fb4f04166595" />
+<img width="672" height="863" alt="image" src="https://github.com/user-attachments/assets/7d1388a2-258e-4442-b20f-99b311f634b9" />
+<img width="633" height="801" alt="image" src="https://github.com/user-attachments/assets/8cc869d9-41e9-4a04-83c0-3ac2ba46e9d7" />
+<img width="641" height="840" alt="image" src="https://github.com/user-attachments/assets/fbe2e85d-0422-4c36-bd87-4cab9a34d4dc" />
+<img width="664" height="830" alt="image" src="https://github.com/user-attachments/assets/7bd59026-41f5-4b1c-bcf2-584387056ead" />
+
+
+---
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
