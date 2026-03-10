@@ -881,6 +881,14 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 ---
 
+#  Production-Grade AI Agent
+
+<img width="535" height="1158" alt="image" src="https://github.com/user-attachments/assets/8ab297ea-9151-4792-832b-c6c2c0e88ebc" />
+<img width="873" height="1098" alt="image" src="https://github.com/user-attachments/assets/68ef09a7-d04b-45a0-a96c-814ffd62d6f1" />
+
+
+---
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
