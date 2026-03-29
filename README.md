@@ -931,6 +931,14 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 <img width="1092" height="911" alt="image" src="https://github.com/user-attachments/assets/efe1c21e-86b6-498d-8005-b40bceafc191" />
 <img width="1279" height="1146" alt="image" src="https://github.com/user-attachments/assets/cbd4e4fa-d9f8-4681-8c1a-f86af4c7f8e1" />
 
+---
+
+# [Master LLM Fine-Tuning](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/Master%20LLM%20Fine-Tuning.pdf)
+
+<img width="1081" height="648" alt="image" src="https://github.com/user-attachments/assets/10ef6e9a-6bd8-497f-8c90-3cd9012e4aae" />
+
+
+
 
 ---
 
