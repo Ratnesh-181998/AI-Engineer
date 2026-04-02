@@ -939,6 +939,14 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 
 
+---
+
+# [The LLM Evaluation Guide](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/LLM%20Evaluation%20Guide.pdf)
+
+- [Read the article here](https://huggingface.co/spaces/OpenEvals/evaluation-guidebook#the-model-user-perspective-which-model-is-the-best-on-task)
+
+<img width="1071" height="671" alt="image" src="https://github.com/user-attachments/assets/61407b18-1778-4766-9049-4977cad314eb" />
+
 
 ---
 
