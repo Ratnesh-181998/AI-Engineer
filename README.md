@@ -950,7 +950,7 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 ---
 
-# [𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲 𝗔𝗜 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁: 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗥𝗲𝗹𝗶𝗮𝗯𝗹𝗲, 𝗖𝗼𝗻𝘁𝗲𝘅𝘁-𝗔𝘄𝗮𝗿𝗲 𝗦𝘆𝘀𝘁𝗲𝗺𝘀]()
+# [𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲 𝗔𝗜 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁: 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗥𝗲𝗹𝗶𝗮𝗯𝗹𝗲, 𝗖𝗼𝗻𝘁𝗲𝘅𝘁-𝗔𝘄𝗮𝗿𝗲 𝗦𝘆𝘀𝘁𝗲𝗺𝘀](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/Building-an-Enterprise-AI-Knowledge-Assistant.pdf)
 <img width="1084" height="1285" alt="image" src="https://github.com/user-attachments/assets/a6850161-3f69-44a8-8bc7-9dcbfd0ba1db" />
 
 
