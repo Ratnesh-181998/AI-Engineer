@@ -953,6 +953,35 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 # [𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲 𝗔𝗜 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁: 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗥𝗲𝗹𝗶𝗮𝗯𝗹𝗲, 𝗖𝗼𝗻𝘁𝗲𝘅𝘁-𝗔𝘄𝗮𝗿𝗲 𝗦𝘆𝘀𝘁𝗲𝗺𝘀](https://github.com/Ratnesh-181998/AI-Engineer/blob/main/Building-an-Enterprise-AI-Knowledge-Assistant.pdf)
 <img width="1084" height="1285" alt="image" src="https://github.com/user-attachments/assets/a6850161-3f69-44a8-8bc7-9dcbfd0ba1db" />
 
+---
+
+# This visual captures 6 important categories:
+
+1️⃣ 𝐆𝐏𝐓 (𝐆𝐞𝐧𝐞𝐫𝐚𝐥-𝐩𝐮𝐫𝐩𝐨𝐬𝐞 𝐦𝐨𝐝𝐞𝐥𝐬)
+- Your default reasoning + generation layer.
+- Great for writing, coding, and conversational tasks.
+
+2️⃣ 𝐌𝐨𝐄 (𝐌𝐢𝐱𝐭𝐮𝐫𝐞 𝐨𝐟 𝐄𝐱𝐩𝐞𝐫𝐭𝐬)
+- Instead of using the full model every time, it routes inputs to specialized sub-networks.
+- Better efficiency + scalability at large scale.
+
+3️⃣ 𝐕𝐋𝐌 (𝐕𝐢𝐬𝐢𝐨𝐧-𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬)
+- Handles multimodal inputs.
+- Agents can now read screenshots, interpret diagrams, understand images + text together
+
+4️⃣ 𝐋𝐑𝐌 (𝐋𝐚𝐫𝐠𝐞 𝐑𝐞𝐚𝐬𝐨𝐧𝐢𝐧𝐠 𝐌𝐨𝐝𝐞𝐥𝐬)
+- Focused on structured thinking.
+- Less about fluent text, more about multi-step reasoning, decision-making
+
+5️⃣ 𝐒𝐋𝐌 (𝐒𝐦𝐚𝐥𝐥 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬)
+- Optimized for low latency, on-device inference and cost efficiency
+- Useful for edge AI and real-time systems.
+
+6️⃣ 𝐋𝐀𝐌 (𝐋𝐚𝐫𝐠𝐞 𝐀𝐜𝐭𝐢𝐨𝐧 𝐌𝐨𝐝𝐞𝐥𝐬)
+- This is where agents become agents.
+- Not just generating text, but calling tools, executing actions, interacting with environments
+
+<img width="920" height="1082" alt="image" src="https://github.com/user-attachments/assets/3bc6fdb6-c7ab-41f4-9257-afbb5493cbd7" />
 
 ---
 
