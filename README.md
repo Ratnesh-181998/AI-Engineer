@@ -993,6 +993,13 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 ---
 
+# CLAUDE CODE COMMAND 
+<img width="962" height="1230" alt="image" src="https://github.com/user-attachments/assets/6db98fcd-9fcd-4a23-a0eb-034e9ceed461" />
+<img width="998" height="1206" alt="image" src="https://github.com/user-attachments/assets/df3691d1-7c95-4b88-860d-08a4bd91ab4b" />
+
+
+---
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
