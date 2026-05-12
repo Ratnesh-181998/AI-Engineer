@@ -1000,6 +1000,14 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 ---
 
+# Most AI agent failures in production are NOT model problems.
+- They’re guardrail failures.
+<img width="820" height="1304" alt="image" src="https://github.com/user-attachments/assets/213f53c6-4952-4f43-800d-b6990cc3e0c2" />
+<img width="916" height="1110" alt="image" src="https://github.com/user-attachments/assets/d5436132-6b1c-4788-ab4c-0635151f01bd" />
+
+
+---
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
