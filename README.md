@@ -1016,6 +1016,13 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 <img width="526" height="700" alt="image" src="https://github.com/user-attachments/assets/9e04c970-1250-4358-a921-d78a075f7f5c" />
 
+---
+
+# 𝐀𝐈 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐈𝐬𝐧’𝐭 𝐎𝐧𝐞 𝐂𝐨𝐧𝐭𝐫𝐨𝐥.
+
+<img width="714" height="1218" alt="image" src="https://github.com/user-attachments/assets/53117353-225b-49c6-b2cb-18e2883b64d1" />
+
+<img width="1086" height="1302" alt="image" src="https://github.com/user-attachments/assets/4fa59aea-3eba-4838-beeb-2baedf05f94e" />
 
 ---
 
