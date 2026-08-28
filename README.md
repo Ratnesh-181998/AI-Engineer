@@ -1008,6 +1008,17 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 ---
 
+# Production is where the real architecture begins.
+
+<img width="538" height="664" alt="image" src="https://github.com/user-attachments/assets/35bfae36-64a5-49fe-8498-09ceb7d8bd38" />
+
+<img width="540" height="650" alt="image" src="https://github.com/user-attachments/assets/b7ce5848-5fc9-4060-9d52-2f027516d991" />
+
+<img width="526" height="700" alt="image" src="https://github.com/user-attachments/assets/9e04c970-1250-4358-a921-d78a075f7f5c" />
+
+
+---
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
