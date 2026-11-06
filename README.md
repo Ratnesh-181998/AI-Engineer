@@ -1026,6 +1026,46 @@ Fine-tuning Large Language Models is how generic LLMs turn into domain experts.
 
 ---
 
+# Rate Limiting Explained!
+
+- Your API can handle 1,000 requests per second.But what happens when one user sends 10,000 requests in just a few seconds?Without rate limiting, your servers could slow down, crash, or become unnecessarily expensive.That's why rate limiting is one of the most important concepts in system design.
+
+## Here are 6 concepts every developer should understand:
+
+-1. Why Rate Limiting?
+Controls how many requests a user, API key, or IP can send within a specific period to prevent abuse and server overload.
+
+-2. Token Bucket
+Uses tokens that refill at a fixed rate, allowing short bursts of traffic while maintaining a controlled average request rate.
+
+-3. Leaky Bucket
+Places incoming requests into a queue and processes them at a steady rate, preventing sudden traffic spikes from overwhelming servers.
+
+-4. Fixed vs. Sliding Window
+Fixed windows reset request counters at regular intervals, while sliding windows track requests over a rolling period for more accurate limits.
+
+-5. Distributed Rate Limiting
+Uses shared counters, often stored in Redis, to enforce consistent request limits across multiple API servers.
+
+-6. Responding to Limits
+Returns HTTP 429 when limits are exceeded and uses Retry-After headers to guide clients on when to retry safely.
+
+-The important lesson?
+
+-Rate limiting isn't just about blocking excessive requests.
+
+-It's about balancing performance, fairness, reliability, and infrastructure costs.
+
+- Get Your Copy anywhere internationally: 
+- US: https://www.amazon.com/System-Design-Behavioral-Intelligence-Engineering/dp/1808344057/
+- UK: https://www.amazon.co.uk/System-Design-Behavioral-Intelligence-Engineering/dp/1808344057/r
+- India : https://www.amazon.com/System-Design-Behavioral-Intelligence-Engineering/dp/1808344057
+
+<img width="924" height="1026" alt="image" src="https://github.com/user-attachments/assets/af5a1572-692a-46d2-b9d3-340936ca95ce" />
+
+
+---
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
